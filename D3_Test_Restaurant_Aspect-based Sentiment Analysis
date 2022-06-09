@@ -1,0 +1,5019 @@
+5012
+surprisingly nothing could be further from the truth [0]
+nil
+
+5013
+in the evening, this place attracted a well dressed, with it, ny crowd [+1]
+[crowd, attracted +1]
+
+5014
+the food was well-prepared and the service impeccable [+1]
+[food, well-prepared +1], [service, impeccable +1]
+
+5015
+i'm going back [+1]
+nil
+
+5016
+having hunted around for a quiet, romantic, yet not hideously expensive restaurant i stumbled across reviews for la lanterna and gave it a shot [+1]
+nil
+
+5017
+quite simply it's like stepping out of manhattan and into a heaven of tranquillity [-1]
+nil
+
+5018
+the service was attentive, the food was far better than many notorious restaurants in midtown and the wine list is extensive and well-priced [+1]
+[service, attentive +1], [food, better +1], [wine list, extensive +1, well-priced +1]
+
+5019
+the prix fixe menu is worth every penny and you get more than enough (both in quantity and quality) [+1]
+[prix fixe menu, worth +1]
+
+5020
+i will be going back and heartily recommend it [+1]
+
+5021
+i've had the lunch buffet at chennai a couple of times, when i have been in the neighborhood [0]
+nil
+
+5022
+it is terrific, as is the value [+1]
+nil
+
+5023
+num and there is much tasty food, all of it fresh and continually refilled [+1]
+[food, tasty +1, fresh +1, refilled +1]
+
+5024
+i am not a vegetarian but, almost all the dishes were great [+1]
+[dishes, great +1]
+
+5025
+frankly, when you compare what you can have here for lunch, versus mcds or so many other sandwich shops in the city, there is no comparison [0]
+nil
+
+5026
+go hungry and enjoy [+1]
+nil
+
+5027
+the food here is rather good, but only if you like to wait for it [+1]
+[food, good +1]
+
+5028
+i like the somosas, chai, and the chole, but the dhosas and dhal were kind of disappointing [+1]
+[somosas, like +1], [chai, like +1], [chole, like +1], [dhosas, disappointing -1], [dhal, disappointing -1]
+
+5029
+the service was very nice [+1]
+[service, nice +1]
+
+5030
+the kitchen however, is almost always slow [-1]
+[kitchen, slow -1]
+
+5031
+also, specify if you like your food spicy - it's rather bland if you do not [-1]
+[food,	bland -1]
+
+5032
+the ambience is pretty and nice for conversation, so a casual lunch here would probably be best [+1]
+[ambience, pretty +1, nice +1], [casual lunch, best +1]
+
+5033
+just went here for my girlfriends birthday [0]
+nil
+
+5034
+if you've ever been along the river in weehawken you have an idea of the top of view the chart house has to offer [0]
+[view, 0]
+
+5035
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening  [+1]
+[service, great +1], [food, great +1], [price, reasonable +1]
+
+5036
+the lava cake dessert was incredible and i recommend it [+1]
+[lava cake dessert,	incredible +1, recommend +1]
+
+5037
+once you step into cosette, you're miraculously in a small, off-the-beaten path parisian bistro [+1]
+nil
+
+5038
+this tiny restaurant is as cozy as it gets, with that certain parisian flair [+1]
+nil
+
+5039
+the food was average to above average the french onion soup filling yet not overly impressive, and the desserts not brilliant in any way [-1]
+[food, average to above average +1], [french onion soup, not overly impressive -1], [desserts, not brilliant -1]
+
+5040
+however, go for the ambience, and consider the food just a companion for a trip across the world [+1]
+[ambience, +1], [food, 0]
+
+5041
+i have never eaten in the restaurant, however, upon reading the reviews i got take out last week [0]
+nil
+
+5042
+it was horrible [-1]
+nil
+
+5043
+the pizza was delivered cold and the cheese was not melted fully [-1]
+[pizza, cold -1], cheese, not melted -1]
+
+5044
+it looked like shredded cheese partially done - still in strips [-1]
+[shredded cheese, partially done -1]
+
+5045
+i have eaten at many pizza places around nyc and this is hands down the worst [-1]
+nil
+
+5046
+this has got to be one of the most overrated restaurants in brooklyn [-1]
+nil
+
+5047
+the pizza is overpriced and soggy [-1]
+[pizza,	overpriced -1, soggy -1]
+
+5048
+yes, they use fancy ingredients, but even fancy ingredients do not make for good pizza unless someone knows how to get the crust right [-1]
+[ingredients, fancy +1], [pizza, -1], [crust, -1]
+
+5049
+a big disappointment, all around [-1]
+nil
+
+5050
+i think i've had some the best meals of my life at minnow [+1]
+[meals,	best +1]
+
+5051
+the seafood is amazing, there's a good wine list, and the ever-changing menu always offers some great surprises	[+1]
+[seafood, amazing +1], [wine list, good +1], [menu, ever-changing +1, great surprises +1]
+
+5052
+the combination of super-fresh ingredients in the dishes are unusual but really delicious [+1]
+[ingredients, super-fresh +1, unusual +1, delicious +1]
+
+5053
+worth the trip from manhattan [+1]
+nil	
+
+5054
+was there friday night [+1]
+nil
+
+5055
+best pastrami i ever had and great portion without being ridiculous [+1]
+[pastrami, best +1], [portion, great +1]
+
+5056
+and i've been to many nyc delis [0]
+nil
+
+5057
+my wife had the fried shrimp which are huge and loved it [+1]
+[fried shrimp, huge +1, loved +1]
+
+5058
+price no more than a jersey deli but way better [+1]
+nil
+
+5059
+as a japanese native, i've lived in the tristate area for over num years, but i was just so amazed at this place [+1]
+[place, amazed +1]
+
+5060
+this place is the most japanese it can ever get [+1]
+[place, +1]
+
+5061
+the signs, the specials menus, food, and even all the waitstaff are all totally japanese [+1]
+[signs, +1], [specials menus, +1], [food, +1], [waitstaff, +1]
+
+5062
+this place is worth an one-hour drive [+1]
+[place, worth +1]
+
+5063
+i am so coming back here again, as much as i can [+1]
+nil
+
+5064
+leon is an east village gem: casual but hip, with well-prepared basic french bistro fare, good specials, a warm and lively atmosphere [+1]
+[french bistro fare, well-prepared +1], [specials, good +1], [atmosphere, warm +1, lively +1]
+
+5065
+my wife and i always enjoy the young, friendly, staff, all of whom have a story [+1]
+[staff, enjoy +1, young +1, friendly +1]
+
+5066
+sit outside in the warm weather inside for cozy winter [0]
+nil
+
+5067
+decent wine at reasonable prices [+1]
+[wine, decent +1], [prices, reasonable +1]
+
+5068
+have been dozens of times and never failed to enjoy the experience [+1]
+[experience, enjoy +1]
+
+5069
+our teenage kids love it, too [+1]
+nil
+
+5070
+every time i decide to try another place on the ues, i get angry that i did not just go to zucchero pomodori [0]
+nil
+
+5071
+this is by far my favorite place in the neighborhood [+1]
+[place, favorite +1]
+
+5072
+the service is excellent, the decor is great, and the food is delicious and comes in large portions [+1]
+[service, excellent +1], [decor, great +1], [food, delicious +1], [portions, large +1]
+
+5073
+you'll pay at least double at any other italian restaurant in the city, and most still do not compare [0]
+nil
+
+5074
+i'm partial to the gnocchi [0]
+nil
+
+5075
+this place is incredibly tiny [-1]
+[place,	tiny -1]
+
+5076
+they refuse to seat parties of num or more on weekends [-1]
+nil
+
+5077
+the hostess is rude to the point of being offensive [-1]
+[hostess, rude -1, offensive -1]
+
+5078
+the food was bland oily [-1]
+[food, bland oily -1]
+
+5079
+i just do not understand all the hype [-1]
+nil
+
+5080
+we went to ino for valentines [0]
+nil
+
+5081
+we have been to this place many times, and always have great food, wine, and service [+1]
+[food, great +1], [wine, great +1], [service, great +1]
+
+5082
+we were worried we would have trouble getting in, but somehow managed to have a short wait [0]
+nil	
+
+5083
+as always we had a great glass of wine while we waited [+1]
+[glass of wine,	great +1]
+
+5084
+when we sat, we got great and fast service [+1]
+[service, great +1, fast +1]
+
+5085
+the people that work there are always so friendly you forget you are in newyork sometimes [+1]
+[people, friendly +1]
+
+5086
+make sure you try this place as often as you can [+1]
+[place, try +1]
+
+5087
+this is a fun restaurant to go to [+1]
+nil	
+
+5088
+the pizza is yummy and i like the atmosphere [+1]
+[pizza, yummy +1], [atmosphere, like +1]
+
+5089
+but the pizza is way too expensive [-1]
+[pizza, expensive -1]
+
+5090
+a large is num and toppings are about num each [+1]
+nil
+
+5091
+i went there for lunch and it was not good as i expected from the reviews i read [-1]
+[lunch, not good +1]
+
+5092
+sauce was watery and the food did not have much flavor [-1]
+[sauce, watery -1], [food, not have much flavor -1]
+
+5093
+if you like the food and the value you get from some of chinatown restaurants, this is not the place for you [-1]
+[food, -1], [place, -1]
+
+5094
+i do not think i would go again [-1]
+nil
+
+5095
+this place is great [+1]
+[place,	great +1]
+
+5096
+i had a huge group for my birthday and we were well taken care of [+1]
+nil
+
+5097
+the waitress was very patient with us and the food is phenomenal [+1]
+[waitress, patient +1], [food, phenomenal +1]
+
+5098
+service was prompt, friendly and great [+1]
+[service, prompt +1, friendly +1, great +1]
+
+5099
+slightly on the pricey side but worth it [+1]
+nil
+
+5100
+great pizza and fantastic service [+1]
+[pizza, great +1], [service, fantastic +1]
+
+5101
+there was a small wait, but shorter than i expected [+1]
+[wait, shorter +1]
+
+5102
+located at the end of a magnificent block [0]
+nil
+
+5103
+very cozy and warm inside [+1]
+nil
+
+5104
+i will be back [+1]
+nil
+
+5105
+this is the best sushi in newyork city - hands down [+1]
+[sushi, best +1]
+
+5106
+the place is small and cramped but the food is fantastic [0]
+[place, small -1, cramped -1], [food, fantastic +1]
+
+5107
+get the tuna of gari [+1]
+[tuna of gari, +1]
+
+5108
+the one on the east side is much better than the one on the west side [0]
+nil
+
+5109
+planet thailand has always been a hit with me , i go there usually for the sushi, which is great , the thai food is excellent too [+1]
+[sushi, great +1], [thai food, excellent +1]
+
+5110
+with the great variety on the menu , i eat here often and never get bored [+1]
+[menu, great variety +1]
+
+5111
+the atmosphere is not the greatest , but i suppose that's how they keep the prices down [+1]
+[atmosphere, not the greatest +1], [prices, down +1]
+
+5112
+it's all about the food [0]
+[food, 0]
+
+5113
+i went there with my friend last saturday [0]
+nil
+
+5114
+first it took us a long-time to find the place [-1]
+nil
+
+5115
+we were tired and cold when we got to the restaurant, then we sat down to begin ordering appetizers [0]
+nil
+
+5116
+but when we looked at the menu, there were not a lot of choices, most of them were dumplings in the appetizer section [-1]
+[menu, -1]
+
+5117
+then we ordered a dinosaur rolls and white tuna sashimi [0]
+[dinosaur rolls, 0], [white tuna sashimi, 0]
+
+5118
+those rolls were not good and sashimi was not fresh [-1]
+[rolls, not good -1], [sashimi, not fresh -1]
+
+5119
+they were dry and disgusting, i did not even finish my first piece [-1]
+nil
+
+5120
+hurley's is like cheers where everyone knows your name and they are actually glad you came [+1]
+nil
+
+5121
+try the crunchy tuna, it is to die for [+1]
+[crunchy tuna, die for +1]
+
+5122
+try everything for that matter, it is all good [+1]
+nil
+
+5123
+i have been going there since it opened and i can't get enough [+1]
+nil
+
+5124
+first went here to enjoy their garden terrace [+1]
+[garden terrace, enjoy +1]
+
+5125
+the food was amazing, and the service was prompt and helpful, but not over-bearing or rushed [+1]
+[food, amazing +1], [service, prompt +1, helpful +1, not overbearing +1, not rushed +1]
+
+5126
+the steak tartare is a great bet, they fix it for you at the table [+1]
+[steak tartare, great +1]
+
+5127
+admittedly some nights inside the restaurant were rather warm, but the open kitchen is part of the charm [+1]
+nil
+
+5128
+great wine selection, gigondas is worth the price, and the house champagne is a great value [+1]
+[wine selection, great +1], [gigondas, worth the price +1], [house champagne, great value +1]
+
+5129
+it may be a bit packed on weekends, but the vibe is good and it is the best french food you will find in the area [+1]
+[vibe, good +1], [french food, best +1]
+
+5130
+have recommended the place to friends, always gets good response [+1]
+[place, recommended +1]
+
+5131
+pizza - the only pizza in nyc that should not have additional toppings - the crust tastes like the best, freshly baked bread [+1]
+[pizza, +1], [crust, best +1, freshly baked +1]
+
+5132
+veal parmigana - better than patsy's [+1]
+nil
+
+5133
+much more reasonably priced too [+1]
+nil
+
+5134
+i take all my nyc guests to vt's [+1]
+nil
+
+5135
+not sure where the previous reviewer, look, dined, but saul is in a great neighborhood and has great food [+1]
+[food, great +1]
+
+5136
+i've been there three times and have always had wonderful experiences [+1]
+[experiences, wonderful +1]
+
+5137
+i'd highly recommend it for a special occasion - it provides and intimate setting and nice service [+1]
+[setting, intimate +1], [service, nice +1]
+
+5138
+i'm not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and i all enjoy mizu very much and we're repeat customers [+1]
+nil
+
+5139
+even after they overcharged me the last time i was there [+1]
+nil
+
+5140
+make sure you have the spicy scallop roll [+1]
+[spicy scallop roll, +1]]
+
+5141
+it's delicious [+1]
+nil
+
+5142
+moules were excellent, lobster ravioli was very salty [+1]
+[moules, excellent +1], [lobster ravioli, salty -1]
+
+5143
+took my mom for mother's day, and the maitre d' was pretty rude [-1]
+nil
+
+5144
+told us to sit anywhere, and when we sat he said the table was reserved [+1]
+[table, reserved -1]
+
+5145
+stepped on my foot on the second time he reached over me to adjust lighting [-1]
+nil
+
+5146
+tiny dessert was plain overpriced for what it is [-1]
+[dessert, overpriced -1]
+
+5147
+the drinks are always well made and wine selection is fairly priced [+1]
+[drinks, well made +1], [wine selection, fairly priced +1]
+
+5148
+try their chef's specials - they are to die for [+1]
+[chef's specials, die for +1]
+
+5149
+service is not five star, but that's not really a big deal [+1]
+[service, not five star +1]
+
+5150
+downstairs lounge is always a good attraction [+1]
+[downstairs lounge, good attraction +1]
+
+5151
+raga's is a romantic, cozy restaurant [+1]
+nil
+
+5152
+the exotic food is beautifully presented and is a delight in delicious combinations [+1]
+[food, exotic [+1], beautifully presented +1, delicious +1]
+
+5153
+it is also extremely well-priced [+1]
+nil
+
+5154
+the staff is incredibly helpful and attentive [+1]
+[staff, helpful +1, attentive +1]
+
+5155
+the bar is very well stocked with interesting beers and well-priced wines [+1]
+[bar, well stocked +1], [beers, interesting +1], [wines, well-priced +1]
+
+5156
+this is one of my favorite restaurants and it is not to be missed [+1]
+nil
+
+5157
+your friends will thank you for introducing them to this gem [+1]
+nil
+
+5158
+when we stumbled on leon, we thought that we had found quite the gem but, we were certainly wrong [-1]
+nil
+
+5159
+the waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet, we were told no [-1]
+[waitress, -1]
+
+5160
+then, to top things off, she dropped used silverware on my boyfriend's jacket and did not stop to apologize or clean the mess that was left on clothes [-1]
+nil
+
+5161
+such a disappointment [-1]
+nil
+
+5162
+rude service, mediocre food there are tons of restaurants in ny stay away from this one [-1]
+[service, rude -1], [food, mediocre -1]
+
+5163
+i had a great time at jekyll and hyde [+1]
+nil
+
+5164
+i loved everything about it - especially the shows and actors [+1]
+nil
+
+5165
+our server was very helpful and friendly [+1]
+[server, helpful +1, friendly +1]
+
+5166
+i am bringing my whole family back next time [+1]
+nil
+
+5167
+the food was good too [+1]
+[food, good +1]
+
+5168
+the tuna and wasabe potatoes are excellent [+1]
+[tuna, excellent +1], [wasabe potatoes, excellent +1]
+
+5169
+the outdoor atmosphere of sitting on the sidewalk watching the world go by num feet away on num avenue on a cool evening was wonderful [+1]
+[outdoor atmosphere, wonderful +1]
+
+5170
+inside is a little cramped, but to be expected [0]
+nil
+
+5171
+service was prompt and courteous [+1]
+[service, prompt +1, courteous +]
+
+5172
+this was a repeat visit and we'll definitely be back again [+1]
+nil
+
+5173
+great service, great food [+1]
+[service, great +1], [food, great +1]
+
+5174
+prices are in line [+1]
+[prices, in line +1] 
+
+5175
+compared to other shabu restaurants around town, this places wins hands-down [+1]
+[place, wins +1]
+
+5176
+but too far east [-1]
+nil
+
+5177
+i live a block away and go to patsy's frequently [+1]
+nil
+
+5178
+the pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzeria's [+1]
+[pizza, delicious +1], [mozzarella, fresh +1]
+
+5179
+two complaints - their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu [-1]
+[appetizer selection, stinks -1], [mozzarella sticks, nice +1]
+
+5180
+also, because it is so thin, it gets cold very quickly and it's not that filling [-1]
+nil
+
+5181
+so eat fast and order a lot [+1]
+nil
+
+5182
+waitstaff is blatantly unappreciative of your business but it's the best pie on the uws [0]
+[waitstaff, unappreciative -1], [pie, best +1]
+
+5183
+by far the best salad i have had in a fast food restaurant [+1]
+[salad, best +1]
+
+5184
+fine dining restaurant quality [+1]
+[dining, fine +1]
+
+5185
+over num different choices to create your own [+1]
+nil
+
+5186
+a must try [+1]
+nil
+
+5187
+on a recent sunday afternoon, a friend and i accidently found this great restaurant on our way to see the pulitzer prize winning play doubt [+1]
+nil
+
+5188
+this was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater [+1]
+nil
+
+5189
+the chicken pot pie is exceptional, the cheeseburger huge and delectable, and the service professional wan warm [+1]
+[chicken pot pie, exceptional +1], [cheeseburger, huge +1, delectable +1], [service, professional +1, warm +1]
+
+5190
+with so many poor experiences to be had in the theater district, is truly an excellent find [+1]
+nil
+
+5191
+we will return many times for this oasis in mid-town [+1]
+nil
+
+5192
+i grew up on these bagels [+1]
+[bagels, +1]
+
+5193
+the staff is no nonsense [-1]
+[staff, nonsense -1]
+
+5194
+the food options rule [+1]
+[food, +1]
+
+5195
+when i lived upstate for a while i would buy freeze the bagels and they would still be better than any else [+1]
+[bagels, better +1]
+
+5196
+worth visiting the ave spot because it is the original store [+1]
+[ave spot, worth +1]
+
+5197
+i stumbled upon this second floor walk-up two fridays ago when i was with two friends in town from la [0]
+nil
+
+5198
+being serious sushi lovers, we sat at the sushi bar to be closer to the action [+1]
+nil
+
+5199
+i asked the chef what he recommends and he asked me if i like uni [0]
+nil
+
+5200
+for those of you who do not know, uni is sea urchin in japanese, which happens to be my favorite [0]
+nil
+
+5201
+he served me an uni hand roll, which i never had before, and let me tell you it was heaven [+1]
+[uni hand roll, heaven +1]
+
+5202
+aside from the sea urchin, the chef recommended an assortment of fish including fatty yellow tail, boton shrimp, blue fin torro (fatty tuna), sea eel, etc [+1]
+[sea urchin, recommended +1], [assortment of fish, recommended +1]
+
+5203
+the sake menu should not be overlooked [+1]
+[sake menu, not be overlooked +1]
+
+5204
+all in all, this midtown gem instantly became one of my favorite sushi restaurants in the city [+1]
+nil
+
+5205
+try the lobster teriyaki and the rose special roll [+1]
+[lobster teriyaki, try +1], [rose special roll, try +1]
+
+5206
+we visited orsay during ny restaurant week and tried their num menu [0]
+[menu, 0]
+
+5207
+service was very good - prompt, attentive and non-intrusive [+1]
+[service, good +1, prompt +1, attentive +1, non-intrusive +1]
+
+5208
+food was very good as well, considering that we tried the budget selection (though i wish the pork belly that i ordered was roasted a bit longer, so that fat was more of a melt-in-your-mouth experience) [+1]
+[food, good +1]
+
+5209
+wine list selection is good and wine-by-the-glass was generously filled to the top [+1]
+[wine list selection, good +1], [wine-by-the-glass, generously filled +1]
+
+5210
+traditional french decor was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation [+1]
+[french decor, traditional +1, pleasant +1]
+
+5211
+i've been to at cafe spice probably 3 times, it is probably still the best indian restaurant around union square [+1]
+nil
+
+5212
+to sum it up: service varies from good to mediocre [+1]
+[service, good to mediocre +1]
+
+5213
+seating is always prompt, though the restaurant does fill up in the evening [+1]
+[seating, prompt +1]
+
+5214
+food is usually very good, though occasionally i wondered about freshness of raw vegetables in side orders [+1]
+[food, good +1], [raw vegatables, wondered about freshness -1]
+
+5215
+as many other reviewers noticed, your order is often slow to arrive - this is particularly true in the evening but is not a problem during lunch time [-1]
+[order, slow to arrive -1]
+
+5216
+the decor is vibrant and eye-pleasing with several semi-private booths on the right side of the dining hall, which are great for a date [+1]
+[decor, vibrant +1, eye-pleasing +1], [semi-private booth, great +1]
+
+5217
+i have never been disappointed in the red eye [+1]
+nil
+
+5218
+the first time i went, and was completely taken by the live jazz band and atmosphere, i ordered the lobster cobb salad [+1]
+[live jazz band,  +1], [atmosphere, +1], [lobster cobb salad, +1]
+
+5219
+i've never ordered anything else from their menu there's no need to [+1]
+[menu, +1]
+
+5220
+it's simply the best meal in nyc [+1]
+[meal, best +1]
+
+5221
+you cannot go wrong at the red eye grill [0]
+nil
+
+5222
+if we were to move from the upper east side, we would genuinely miss this restaurant [0]
+nil
+
+5223
+we've lived in the area for more than num years [0]
+nil
+
+5224
+the restaurant is cute but not upscale [0]
+nil
+
+5225
+the food is a diamond in rough - the food is delicious and homemade with the perfect balance of herbs and tomatoes [+1]
+[food, diamond +1, delicious +1, homemade +1], [balance of herbs and tomatoes, perfect +1]
+
+5226
+i would highly recommend it [+1]
+nil
+
+5227
+it's one of our favorite places to eat in ny [+1]
+nil
+
+5228
+we had a great time at the jekyll and hyde pub last night [+1]
+nil
+
+5229
+we were walking around the village and went into this place just for some drinks [+1]
+[place, 0]
+
+5230
+after really enjoying ourselves at the bar we sat down at a table and had dinner [+1]
+[bar, enjoying +1]
+
+5231
+the server was really cool and served us our food and drinks with a smile [+1]
+[server, cool +1]
+
+5232
+the place's decor and hidden bathrooms made for a good laugh [-1]
+[decor, good laugh -1], [hidden bathrooms, good laugh -1]
+
+5233
+i highly recommend visiting this restaurant and having dinner and drinks [+1]
+[dinner, recommend +1], [drinks, recommend +1]
+
+5234
+if you are the type of person who likes being scared and entertained, this is a great place to go and eat [-1]
+[place, great +1]
+
+5235
+my husband and i thought it would be great to go to the jekyll and hyde pub for our anniversary, and to our surprise it was fantastic [+1]
+nil
+
+5236
+the have different beers to offer their guest so that made my husband very happy and the food was delicious, if i must recommend a dish it must be the pumkin tortelini [+1]
+[beers, different +1], [food, delicious +1], [pumkin tortelini, recommend +1]
+
+5237
+the entertainment was great they have shown that go on throughout the dinner [+1]
+[entertainment, great +1]
+
+5238
+please take my advice, go and try this place [+1]
+[place, try +1]
+
+5239
+its located in greenewich village [0]
+nil
+
+5240
+you will not be disappointed at all [+1]
+nil
+
+5241
+our first time in newyork and we had to try a newyork bagel [0]
+nil
+
+5242
+we were not disappointed in the least bit by this little gem [+1]
+nil
+
+5243
+the bagel was huge [+1]
+[bagel, huge +1]
+
+5244
+they were served warm and had a soft fluffy interior [+1]
+nil
+
+5245
+the workers there also absolutely load the bagel with cream cheese (gets a little messy) [-1]
+[bagel, messy -1]
+
+5246
+i loved it and would highly recommended [+1]
+nil
+
+5247
+this was my first time at cafe st bart's and i must say how delicious the food and the service was [+1]
+[food, delicious +1], [service, delicious +1]
+
+5248
+when i called this morning, i did not think i would be able to get in at num but i was able to get in, along with four other guests [+1]
+nil
+
+5249
+i have to highly recommend the lobster roll - not too much mayo you can tell it was a fresh lobster [+1]
+[lobster roll, recommend +1], [lobster, fresh +1]
+
+5250
+other guests enjoyed pizza, santa fe chopped salad and fish and chips [+1]
+[pizza, enjoyed +1], [santa fe chopped salad, enjoyed +1], [fish and chips, enjoyed +1]
+
+5251
+i highly recommend cafe st bart's for their food, the ambience and wonderful service [+1]
+[food, recommend +1], [ambience, recommend +1], [service, wonderful +1]
+
+5252
+all the staff is absolutely professional [+1]
+[staff, professional +1]
+
+5253
+i sometimes see the waiters do not have enough knowledge of their dishes [-1]
+[waiter, -1]
+
+5254
+but they do [0]
+nil
+
+5255
+that is a must, but not every restaurant can do [0]
+nil
+
+5256
+if you want to dine with large party, i recommend to make reservation basement [+1]
+[reservation, recommend +1]
+
+5257
+there's nice and quiet, small but enough for num (or more) [+1]
+nil
+
+5258
+this restaurant was way overhyped [-1]
+nil
+
+5259
+my chow fun and chow see was really bland and oily [-1]
+[chow fun, bland -1, oily -1], [chow see, bland -1, oily -1]
+
+5260
+ok - i do not mind the oily part (cause most are cooked that way) but it was way too bland [-1]
+nil
+
+5261
+the scallion pancakes and fried dumplings were nothing out of the ordinary [-1]
+[scallion pancakes, ordinary -1], [fried dumplings, ordinary -1]
+
+5262
+the service was the only thing good about this restaurant [+1]
+[service, good +1]
+
+5263
+it's boring on the inside, and our sushi was pretty below average the tuna was soggy and the other rolls had no flavor [-1]
+[sushi, below average -1], [tuna, soggy -1], [rolls, no flavor -1]
+
+5264
+i definitely would not go back [-1]
+nil
+
+5265
+there are many thai places in the city but so far toons is num [+1]
+nil
+
+5266
+their pad penang is delicious and everything else is fantastic [+1]
+[pad penang, delicious +1]
+
+5267
+the price is reasonable although the service is poor  [0]
+[price, reasonable +1], [service, poor -1]
+
+5268
+fresh restaurant has amazing food and delicious and of course fresh [+1]
+[food, amazing +1, delicious +1, fresh +1]
+
+5269
+great for a romantic evening, or a fun evening with friends [+1]
+nil
+
+5270
+i will be going back very soon [+1]
+nil
+
+5271
+keep up the good work [+1]
+nil
+
+5272
+hats off to the chef [+1]
+[chef, hats off +1]
+
+5273
+i am not the most experienced person when it comes to thai food, but my friend who took me there is [0]
+[thai food, 0]
+
+5274
+he has visited thailand and is quite expert on the cuisine [0]
+nil
+
+5275
+it was wonderful [+1]
+nil
+
+5276
+the salads are delicious, both refreshing and very spicy [+1]
+[salads, delicious +1, refreshing +1, spicy +1]
+
+5277
+we had pam's special fried fish and it was amazing [+1]
+[pam's special fried fish, amazing +1]
+
+5278
+too large for just two people but nothing was left [+1]
+nil
+
+5279
+unbelievable [0]
+nil
+
+5280
+had a late night dinner on a saturday night [0]
+[dinner, 0]
+
+5281
+great vibe, lots of people [+1]
+[vibe, great +1]
+
+5282
+my husband and i both ordered the steak, medium [0]
+[steak, 0]
+
+5283
+my husbands was perfect, my was well done and dry [0]
+nil
+
+5284
+i did not complain, i liked the atmosphere so much [+1]
+[atmosphere, liked +1]
+
+5285
+will give it another chance before i write it off [0]
+nil
+
+5286
+visited there while on vacation and reading the reviews [0]
+nil
+
+5287
+on a hot day it was fabulous to stop in and enjoy lunch [+1]
+nil
+
+5288
+ambience is so cute and quaint, good for business although we were there on vacation [+1]
+[ambience, cute +1, quaint +1]
+
+5289
+salads were fantastic [+1]
+[salads, fantastic +1]
+
+5290
+although we were looking for regular lettuce and some walnuts the salads we got were great [+1]
+[salads, great +1]
+
+5291
+ingredients are organic which is a real plus for me [+1]
+[ingredients, organic +1]
+
+5292
+we will be back [+1]
+nil
+
+5293
+this is some really good, inexpensive sushi [+1]
+[sushi, good +1, inexpensive +1]
+
+5294
+it costs some extra to turn a regular roll into an inside-out roll, but the roll more than triples in size, and that's not just from the rice [-1]
+[cost, extra -1]
+
+5295
+the spicy tuna roll is huge and probably the best that i've had at this price range [+1]
+[spicy tuna roll, huge +1, best +1], [price range , +1]
+
+5296
+the yellowtail was particularly good as well [+1]
+[yellowtail, good +1]
+
+5297
+i have reservations about the all you can eat deal, however - the choices are fairly limited and you can probably order more food than you can eat by just going off the menu [+1]
+[all you can eat deal, +1], [choices, fairly limited -1]
+
+5298
+in any event, this is a place i'll be sure to stop by again when i'm in this part of town [+1]
+[place, +1]
+
+5299
+big wong gets big ups for a fine establishment [+1]
+[establishment, fine +1]
+
+5300
+they have it all - great price, food, and service [+1]
+[price, great +1], [food, great +1], [service, great +1]
+
+5301
+the atmosphere is noisy and the waiters are literally walking around doing nothing [-1]
+[atmosphere, noisy -1], [waiters, nothing -1]
+
+5302
+the food is prepared quickly and efficiently [+1]
+[food, prepared quickly and efficiently +1]
+
+5303
+and it all comes at a very reasonable price (congee, noodles, and rice dishes are no more than num each) [+1]
+[pricw, reasonable +1], [congee, +1], [noodles, +1], [rice dishes, +1]
+
+5304
+the takeout is great too since they give high quality tupperware as well  [+1]
+[takeout, great +1], [tupperware, high quality +1]
+
+5305
+this place is always very crowded and popular [0]
+[place, crowded -1, popular +1]
+
+5306
+went here on a friend's recommendation [0]
+nil
+
+5307
+enjoyed a very nice caesar salad while my wife had arugula and goat cheese both very tasty [+1]
+[caesar salad, enjoyed +1, nice +1, tasty +1], [arugula and goat cheese, tasty +1]
+
+5308
+we both opted for a pasta dish and they were served timely and fresh [+1]
+[pasta dish, served timely +1, fresh +1]
+
+5309
+we concluded with tiramisu chocolate cake, both were delicious [+1]
+[tiramisu chocolate cake, delicious +1]
+
+5310
+we'd go back again [+1]
+nil
+
+5311
+i recently went to this restaurant with some co-workers for lunch and had an amazing time [+1]
+[lunch, amazing +1]
+
+5312
+the staff was accommodating, the food was absolutely delicious and the place is lovely [+1]
+[staff, accommodating +1], [food, delicious +1], [place, lovely +1]
+
+5313
+we even had a visit from the manager who wanted to make sure we were enjoying ourselves [+1]
+[manager, visit +1]
+
+5314
+yes, the prices are high, but i felt food was worth it [+1]
+[prices, high -1], [food, worth +1]
+
+5315
+we all felt it was worth it [+1]
+nil
+
+5316
+sometimes i get good food and ok service [+1]
+[food, good +1], [service, ok 0]
+
+5317
+i get bad food and bad service [-1]
+[food, bad -1], [service, bad -1]
+
+5318
+it is not consistent [-1]
+nil
+
+5319
+really depends on your luck [+1]
+nil
+
+5320
+The dishes and wine were simple, but served efficiently, atmosphere was bustling [+1]
+[dishes, simple +1], [wine, simple +1], [served, efficiently +1], [atmosphere, bustling +1]
+
+5321
+and where does patis go wrong no where [+1]
+nil
+
+5322
+you are not eating haut cuisine with subtle hints of whatever but: cassuolet, steake fritte, tripe stew, etc simple stuff [-1]
+[cassuolet, simple -1], [steake fritte, simple -1], [tripe stew, simple -1], [stuff, simple -1]
+
+5323
+and evaluated on those terms pastis is simply wonderful [+1]
+nil
+
+5324
+right off the l in brooklyn this is a nice cozy place with good pizza [+1]
+[place, nice +1, cozy], [pizza, good +1]
+
+5325
+mine food was delicious with goat cheese and panchetta (raddichio was kind of bitter though) [+1]
+[food, delicious +1], [raddichio, bitter -1]
+
+5326
+my friend got the mushroom pizza which tasted better [+1]
+[mushroom pizza, tasted better +1]
+
+5327
+the sangria was pretty tasty and good on a hot muggy day [+1]
+nil
+
+5328
+kind of a small place but i guess if they are not too busy might be able to fit a group or kids [-1]
+[place, small -1]
+
+5329
+overall i would recommend it and go back again [+1]
+nil
+
+5330
+coming from boston this place is like emma's pizza in kendall square in cambridge (although they have more funky toppings) [+1]
+nil
+
+5331
+i started out with a bombay beer which was big enough for two [+1]
+[bombay beer, big +1]
+
+5332
+for dinner i had the chicken tikka-masala and some garlic naan [0]
+[dinner, 0], [chicken tikka-masala, 0], [garlic naan, 0]
+
+5333
+mmmmm it was delicious [+1]
+nil
+
+5334
+service was slow, but the people were friendly [+1]
+[service, slow -1], [people, friendly +1]
+
+5335
+it's a nice place to relax and have conversation [+1]
+[place, nice +1]
+
+5336
+i can't wait to go back [+1]
+nil
+
+5337
+we have lived in chelsea for two years and have never noticed this restaurant [+1]
+nil
+
+5338
+the food is authentic italian - delicious [+1]
+[food, authentic +1, delicious +1]
+
+5339
+pizza is terrific, as is homemade pasta [+1]
+[pizza, terrific +1], [homemade pasta,  terrific +1]
+
+5340
+ambience is delightful, service impeccable [+1]
+[ambience, delightful +1], [service, impeccable +1]
+
+5341
+i'm still mad that i had to pay for lousy food [-1]
+[food, lousy -1]
+
+5342
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed [-1]
+[hanger steak, rubber -1], [tuna, flavorless -1, thawed -1]
+
+5343
+service was also horrible and the ambience is not that great [+1]
+[service, horrible -1], [ambience, great +1]
+
+5344
+do not try unless you're just going there to hang out like the rest of the hipsters who apparently have no sense of taste [-1]
+nil
+
+5345
+i go and eat out at many different restaurants and this is one place you have go and try [+1]
+[place, try +1]
+
+5346
+this is my first time writing a review for a restaurant because the food and service was excellent [+1]
+[food, excellent +1], [service, excellent +1]
+
+5347
+the filet mignon dish was superb [+1]
+[filet mignon dish, superb +1]
+
+5348
+i would definitely come back here again as one of my top choices [+1]
+nil
+
+5349
+it's a small cute restaurant [+1]
+nil
+
+5350
+i absolutely love this place [+1]
+[place, love +1]
+
+5351
+from the street it looks very hidden, and is actually an old warehouse [0]
+nil
+
+5352
+i like the ambience, it's very dark and original [+1]
+[ambience, like +1]
+
+5353
+i came here for my friend's birthday and keep coming back ever since [+1]
+nil
+
+5354
+the sushi is amazing [+1]
+[sushi, amazing +1]
+
+5355
+and amazingly cheap [+1]
+nil
+
+5356
+big thumbs up [+1]
+nil
+
+5357
+very affordable and excellent ambient [+1]
+[ambient, affordable +1, excellent +1]
+
+5358
+we ordered some beef and noodle soup dishes from the thai section of the menu but nothing we got was thai [-1]
+[thai selection, -1]
+
+5359
+we were very disappointed [-1]
+nil
+
+5360
+we won't go to this place again for a good meal [-1]
+[place, -1]
+
+5361
+however, i think this place is a good hang out spot [+1]
+[place, good +1]
+
+5362
+next time, we would not dare ordering anything else other than some simple asian appetizers and drinks [+1]
+nil
+
+5363
+my girlfriend and i stumbled onto this hopping place the other night and had a great time [+1]
+[place, great time +1]
+
+5364
+the pizza and wine were excellent - the service too - but what really made this place was the backyard dining area [+1]
+[pizza, excellent +1], [wine, excellent +1], [service, excellent +1], [backyard dining area, +1]
+
+5365
+it is one the nicest outdoor restaurants i have ever seen in ny - i am from italy and this place rivals the ones in my country [+1]
+[outdoor, nicest +1]
+
+5366
+they tell me they are going to cover the garden in glass for the winter, so i'm looking forward to going there on a snowy night to enjoy it [+1]
+nil
+
+5367
+check this place out [+1]
+[place, +1]
+
+5368
+highly recommended [+1]
+nil
+
+5369
+first of all, this place is not romantic, as claimed by citysearch's editorial review [+1]
+[place, not romantic +1	]
+
+5370
+either that, or the editor's idea of romance must be sharing a conversation with the next table, while trying to speak louder than the traffic on road [-1]
+nil
+
+5371
+the tables are crammed way too close, the menu is typical of any italian restaurant, and the wine list is simply overpriced [-1]
+[tables, crammed -1, close -1], [menu, typical +1], [wine list, overpriced -1]
+
+5372
+slightly above average wines [+1]
+[wines, above average +1]
+
+5373
+service is not what one would expect from a joint in this price category [-1]
+[service, -1]
+
+5374
+for instance, plates were just dumped on the table, i was handed the wine list upside down, etc [-1]
+[plates, dumped -1]
+
+5375
+somehow working the italian charm with constant mille grazie constitute no proper service [-1]
+[service, no proper -1]
+
+5376
+to be completely fair, the only redeeming factor was the food, which was above average, but could not make up for all the other deficiencies of teodora [+1]
+[food, redeeming +1, above average +1]
+
+5377
+to celebrate a birthday, three of us went to mare anticipating great food [+1]
+[food, great +1]
+
+5378
+meals were not edible - bland and or made with weird rosemary or orange flavoring [-1]
+[meals, not edible -1, bland -1], [rosemary or orange flavoring, weird -1]
+
+5379
+fish was overdone [-1]
+[fish,	overdone -1]
+
+5380
+cute place, nice waitstaff but would never go there again [-1]
+[place, cute +1], [waitstaff, nice +1]
+
+5381
+we also left the dessert [-1]
+[dessert, left -1]
+
+5382
+one of us actually liked the expresso - that's it [+1]
+[expresso,	liked +1]
+
+5383
+skip this restaurant, it's a big disappointment [-1]
+nil
+
+5384
+myagi is one of my favorite restaurants in the city the place the negative reviews describe sound like they were somewhere else [+1]
+[place, +1]
+
+5385
+i've had no bad service and the fish is fresh and delicious [+1]
+[service, no bad -1], [fish, fresh +1, delicious +1]
+
+5386
+their tuna tartar appetizer is to die for [+1]
+[tuna tartar appetizer, die for +1]
+
+5387
+i come from a family of pizzeria owners, and i'm almost ashamed to say that the pizza in fornino's blows my family's recipes away [-1]
+[pizza,	ashamed -1]
+
+5388
+it is simply amazing [+1]
+nil
+
+5389
+the place is so cool and the service is prompt and courteous [+1]
+[place, cool +1], [service, prompt +1, curtious +1]
+
+5390
+i highly recommend to anyone to give this place a try [+1]
+[place, recommend +1]
+
+5391
+you will find yourself returning quite often [+1]
+nil
+
+5392
+ps please do not tell anyone in my family i eat there [-1]
+nil
+
+5393
+lol [-1]
+nil
+
+5394
+a restaurant that does not try to do anything except serve great food with great service in a pleasant atmosphere [+1]
+[food, great +1], [service, great +1], [atmosphere, pleasant +1]
+
+5395
+no gimmicks here - the food speaks for itself in its freshness and preparation [+1]
+[food, +1]
+
+5396
+the dining room is quietly elegant with no music to shout over - how refreshing [+1]
+[dining room, quietly elegant +1]
+
+5397
+the service was impeccable and unobtrusive - the staff knows what they are there to do - to know their menu, present your meal, and attend to your needs [+1]
+[service, impeccable +1, unobtrusive +1], [staff, +1]
+
+5398
+looking around, i saw a room full of newyorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen [+1]
+[meal, real +1]
+
+5399
+beautiful experience [+1]
+[experience, beautiful +1]
+
+5400
+the view is breathtaking the service is top notch the ambience is wonderful [+1]
+[view, breathtaking +1], [service, top notch +1], [ambience, wonderful +1]
+
+5401
+the staff offers impeccable service [+1]
+[staff, +1], [service, impeccable +1]
+
+5402
+i had lobster bisque it has maine lobster in it [0]
+[lobster bisque, 0]
+
+5403
+my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque [+1]
+[new england chowder, good +1], [lobster bisque, good +1]
+
+5404
+i had fillet mignon with garlic mash [0]
+[fillet migon with garlic mash, 0]
+
+5405
+it was divine melts in your mouth [+1]
+nil
+
+5406
+my boyfriend had prime rib it was good [+1]
+[prime rib, good +1]
+
+5407
+we did not want a bottle of bubbly on a weekday so we each got little bottles of korbett it was just enough [+1]
+[bottles of korbett, enough +1]
+
+5408
+we had lava cake we ordered when our food came [0]
+[lava cake, 0]
+
+5409
+it's because it's so good you need to taste it [+1]
+nil
+
+5410
+all in all we're already coming up with excuses to go ahead really soon in the next few weeks [+1]
+nil
+
+5411
+my wife and i ate here earlier this week and have not stopped ranting and raving about the food [-1]
+[food, -1]
+
+5412
+if you like spicy food get the chicken vindaloo [+1]
+[chicken vindaloo, like +1, spicy +1]
+
+5413
+it's very spicy but not offensive [+1]
+nil
+
+5414
+we will definitely go back [+1]
+nil
+
+5415
+go to volare for class service and terrific food [+1]
+[service, class +1], [food, terrific +1]
+
+5416
+the portions are large and the servers always surprise us with a different starter [+1]
+[portions, large +1], [servers surprise +1]
+
+5417
+the wine list is excellent [+1]
+[wine list, excellent +1]
+
+5418
+the food is amazing especially if you get the chef's tasting menu and your favourite bottle (or two ) of wine from an extensive selection of wines [+1]
+[food, amazing +1], [chef's tasting menu, +1], [ selection of wines, extensive +1]
+
+5419
+the place is small and intimate and you may feel a little crowded, but the service is excellent [+1]
+[place, small -1, intimate -1, little crowded -1], [service, excellent +1]
+
+5420
+people dress in suits or evening gowns as well as shirts jeans [+1]
+nil
+
+5421
+the price fixe tasting menu is the greatest food for a good price [+1]
+[prixe fixe tasting menu, greatest +1], [price, good +1]
+
+5422
+recommendations, of course, are required [0]
+nil
+
+5423
+please be aware that it's cash or amex only [-1]
+nil
+
+5424
+with the exception of our lemon salad that had so much pepper on it that our eyes started watering, the food here was decent [+1]
+[lemon salad, -1], [food, decent +1]
+
+5425
+the menu is very limited - i think we counted entrees [-1]
+[menu, limited -1]
+
+5426
+we ordered the special, grilled branzino, that was so infused with bone, it was difficult to eat [-1]
+[grilled branzino, infused with bones -1, difficult to eat -1]
+
+5427
+the decor in this place is very dinerish and the kind of place you expect in the east village - just simple, small and sparse [+1]
+[decor, dinerish +1], [place, simple +1, small +1, sparse +1]
+
+5428
+problem is nothing at prune is particularly memorable [+1]
+nil
+
+5429
+no plans to return anytime soon [-1]
+nil
+
+5430
+this place is so much fun [+1]
+[place, fun +1]
+
+5431
+our family never expected such incredible entertainment in a restaurant [+1]
+[entertainment, incredible +1]
+
+5432
+this place must have cost the owners a fortune to build [+1]
+nil
+
+5433
+i think the stuff was better than disney [+1]
+nil
+
+5434
+our food was great too [+1]
+[food, great +1]
+
+5435
+and really large portions [+1]
+[portions, large +1]
+
+5436
+the staff was the friendliest that have seen in newyork [+1]
+[staff, friendliest +1]
+
+5437
+we will go back every time we are in the city [+1]
+nil
+
+5438
+if you want something really different than try jekyll and hyde [+1]
+nil	
+
+5439
+it is a lot of fun with live entertainment and all kinds of disney type special effects [+1]
+nil
+
+5440
+the food was pretty traditional but it was hot and good with large portions [+1]
+[food, traditional +1, hot +1, good +1], [portions, large +1]
+
+5441
+i highly recommend it [+1]
+nil
+
+5442
+i am going to the mid town location next [0]
+nil
+
+5443
+the place is a lot of fun [+1]
+[place, fun +1]
+
+5444
+my six year old loved it [+1]
+nil
+
+5445
+the characters really make for an enjoyable experience [+1]
+[experience, enjoyable +1]
+
+5446
+the food however, is what one might expect [+1]
+[food, expect +1]
+
+5447
+it is very overpriced and not very tasty [-1]
+nil]
+
+5448
+however, i think jeckll and hydes t is one of those places that is fun to do once [+1]
+[place,	fun +1]
+
+5449
+we had a good time [+1]
+nil
+
+5450
+went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them [+1]
+[table, wait -1]
+
+5451
+service was slow had to wait to order and get food although not crowded [-1]
+[service, slow -1]
+
+5452
+drinks way overpriced [-1]
+[drinks, overpriced -1]
+
+5453
+food was not great not worth the wait or another visit [-1]
+[food, not great -1, not worth -1]
+
+5454
+great pizza for lunch place [+1]
+[pizza, great +1]
+
+5455
+service was quick [+1]
+[service, quick +1]
+
+5456
+the pizza was great [+1]
+[pizza, great +1]
+
+5457
+and it was quick which is very important [+1]
+nil
+
+5458
+have the iced tea [0]
+[iced tea, 0]
+
+5459
+it was wonderful [+1]
+nil
+
+5460
+whenever you need a sushi fix, mizu will be there with quality fish and great service [+1]
+[sushi fix, quality +1], [fish, quality +1], [service, great +1]
+
+5461
+delivery is fast too [+1]
+[delivery, fast +1]
+
+5462
+great friendly service, fast seating, fast delivery, excellent sushi [+1]
+[service, great +1, friendly +1], [seating, fast +1], [delivery, fast +1], [sushi, excellent +1]
+
+5463
+a little overpriced but worth it once you take a bite [+1]
+nil
+
+5464
+growing up in ny, i have eaten my share of bagels [+1]
+nil
+
+5465
+ess-a-bagel (either by sty-town or midtown) is by far the best bagel in ny [+1]
+[bagel, best +1]
+
+5466
+the bagels always warm, soft on the inside, crispy on the outside and enormous in size [+1]
+[bagels, warm +1, soft +1, crispy +1, enormous +1]
+
+5467
+they have a huge selection of different cream cheeses and all of their salads are great [+1]
+[cream cheese, different +1, huge selection +1], [salads, great +1]
+
+5468
+the lox is always fresh too [+1]
+[lox, fresh +1]
+
+5469
+highly recommended to all [+1]
+nil
+
+5470
+i have to agree with the previous reviewer [0]
+nil
+
+5471
+i do not get it either [-1]
+nil
+
+5472
+not impressed with the food [-1]
+[food, not impressed +1]
+
+5473
+prices too high for this cramped and unappealing restaurant [-1]
+[prices, high -1]
+
+5474
+zero ambience to boot [-1]
+[ambience, zero -1]
+
+5475
+i thought this place was totally overrated [-1]
+[place, overrated -1]
+
+5476
+everything we had was good or ok but definitely nothing great [0]
+nil
+
+5477
+the ambience was nice, but service was not great [-1]
+[ambience, nice +1], [service, not great -1]
+
+5478
+when you add it all together, it just does not seem worth it to me especially considering the prices [+1]
+[prices, worth it +1]
+
+5479
+this is the best shabu-shabu restaurant in the try-state area [+1]
+nil
+
+5480
+i have lived in japan for manu years and the taste of the food and the feel of the restaurant is like being back in japan [+1]
+nil
+
+5481
+this is a must for anyone who loves shabu-shabu [+1]
+nil
+
+5482
+the atmosphere is nothing special, but it feels like a sushi establishment in tokyo [+1]
+[atmosphere, nothing special -1]
+
+5483
+the owner and staff are all japanese as well and that adds to the entire ambience [+1]
+[ambience, +1]
+
+5484
+despite a slightly limited menu, everything prepared is done to perfection, ultra-fresh and a work of food art [+1]
+[menu, limited +1], [food, perfection +1, fresh +1]
+
+5485
+i must give it yon out of yon stars [+1]
+nil
+
+5486
+taxan delicious [+1]
+[taxan, delicious +1]
+
+5487
+arigato gozimas yuka [0]
+nil
+
+5488
+this restaurant was recommended by a local as a matter of fact, he made the reservation for us and said we would not be disappointed [+1]
+nil
+
+5489
+we were not [0]
+nil
+
+5490
+the prices were cheap compared to the quality of service and food [+1]
+[prices,cheap +1], [service, +1], [food, +1]
+
+5491
+we liked it so much, that we will always make it a point to dine here when we visit newyork [+1]
+[dine, liked +1]
+
+5492
+went there for an office lunch [0]
+[lunch, 0]
+
+5493
+the location and ambience is ok but the food is what makes up for it [+1]
+[location, ok 0], [ambience, ok 0], [food, +1]
+
+5494
+there is a lot of variety even for people who eat vegetarian like me [+1]
+nil
+
+5495
+try green curry with vegetables [+1]
+[green curry with vegetables, try +1]
+
+5496
+the quantity is also very good, you will come out satisfied [+1]
+[quantity, good +1, satisfied +1]
+
+5497
+the service is ok, some of the people did not get what they asked for [-1]
+[service, ok 0]
+
+5498
+i was there on sat for my birthday and we had an excellent time [+1]
+nil
+
+5499
+i had the best ravioli ever [+1]
+[ravioli, best +1]
+
+5500
+the wine the service was very good too [+1]
+[wine, good +1], [service, good +1]
+
+5501
+moderate prices [+1]
+[prices, moderate +1]
+
+5502
+a little noise but i think that was because of our party [-1]
+nil
+
+5503
+molto bene [+1]
+nil
+
+5504
+this quaint and romantic trattoria is at the top of my manhattan restaurant list [+1]
+[trattoria, quaint +1, romantic +1]
+
+5505
+the food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment [+1]
+[food, delicious +1], [specials, delicious +1], [regular menu-fare, delicious +1], [dishes, never a disappointment +1]
+
+5506
+whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to northern italy with one bite [+1]
+[parmesean porcini souffle, +1], [lamb glazed with balsamic vinegar, +1]
+
+5507
+although the tables may be closely situated, the candle-light, food-quality and service overcompensate [+1]
+[tables, closely situated -1], [food-quality, +1], [service, overcompensate +1]
+
+5508
+a guaranteed delight [+1]
+nil
+
+5509
+i have known about this secret for the many last years, emilio(the godfather) has continued to serve food and wine for the gods at mortal prices [+1]
+[food, serve +1], [wine, serve +1], [prices, mortal +1]
+
+5510
+if you go, try the marinara arrabiatta sauce, the mozzarella en carozza is mmmmmmmm everything is just delicious [+1]
+[marinara/arrabiatta sauce, delicious +1]
+
+5511
+check out the secret back room  [0] 
+nil
+
+5512
+old school meets new world [+1]
+nil
+
+5513
+i pray it stays open forever [+1]
+nil
+
+5514
+thank you emilio [+1]
+nil
+
+5515
+ciao bella [+1]
+nil
+
+5516
+i found the food, service and value exceptional every time i have been there [+1]
+[food, exceptional +1], [service, exceptional +1]
+
+5517
+the food was authentic [+1]
+[food, authentic +1]
+
+5518
+i felt as though i were eating in paris [+1]
+nil
+
+5519
+the service was excellent - friendly and attentive [+1]
+[service, excellent +1, friendly +1, attentive +1]
+
+5520
+the prices are wonderfully low [-1]
+[prices, low +1]
+
+5521
+very good wine choices [+1]
+[wine choices, good +1]
+
+5522
+i can't believe people complain about no cheese sticks [+1]
+nil
+
+5523
+who has room for cheese sticks with the best pizza in nyc [+1]
+[pizza, best +1]
+
+5524
+get the pepperoni - yum - and a family style salad [+1]
+[pepperoni, yum +1], [family style salad, +1]
+
+5525
+great staff [+1]
+[staff, great +1]
+
+5526
+always great service [+1]
+[service, great +1]
+
+5527
+i go twice a month [+1]
+nil
+
+5528
+fantastic [+1]
+nil
+
+5529
+the food is good, i can't lie [+1]
+[food, good +1]
+
+5530
+but the staff was so horrible to us [-1]
+[staff, horrible -1]
+
+5531
+the hostess and the waitress were incredibly rude and did everything they could to rush us out [-1]
+[hostess, rude -1], [waitress, rude -1]
+
+5532
+we were planning to get dessert but the waitress basically through the bill at us before we had a chance to order [-1]
+[waitress, -1]
+
+5533
+this place is pricey, and yes, the food is worth it but the service makes you feel like you should be paying a quarter of the price [-1]
+[place, pricey -1], [food, worth +1], [service, -1]
+
+5534
+save yourself the time and trouble and skip this one [-1]
+nil
+
+5535
+i'll keep this short [0]
+nil
+
+5536
+amma is nothing special [-1]
+nil	
+
+5537
+the two star chefs left quite some time ago to open their own place [-1]
+[chefs, left -1]
+
+5538
+i ate here a week ago and found most dishes average at best and not too expensive [+1]
+[dishes, average at best +1, not too expensive +1]
+
+5539
+will not be back [-1]
+nil
+
+5540
+do not dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections [-1]
+[vegetarian dishes, not up to par -1]
+
+5541
+decor is nice though service can be spotty [-1]
+[decor, nice +1], [service, spotty -1]
+
+5542
+this place is always packed [-1]
+[place, packed -1]
+
+5543
+i know because i live nearby [0]
+nil
+
+5544
+most importantly, food is excellent [+1]
+[food, excellent +1]
+
+5545
+try the sea bass [+1]
+[sea bass, try +1]
+
+5546
+highly recommended [+1]
+nil
+
+5547
+first of all dal bukhara rocks [+1]
+[dal bukhara, rocks +1]
+
+5548
+as a student in nyu i need a place to eat after a hard day of work so usually i just go to any indian restaurant near by [+1]
+[place, +1]
+
+5549
+but i've heard a lot about this for the past num years and finally decided to eat here [0]
+nil
+
+5550
+i am happy i did the food was awesome [+1]
+[food, awsome +1]
+
+5551
+just awesome [+1]
+nil
+
+5552
+and yes dal bukhara is so dam good and so are all the kababs [+1]
+[dal bukhara, good +1], [kababs, good +1]
+
+5553
+they are opening two more places as i saw a flyer there one in yonkers which is a restaurant and banquet hall and another one in parsipanny new jersey [+1]
+nil
+
+5554
+but overall i give it a num [+1]
+nil
+
+5555
+num [+1]
+nil
+
+5556
+i have not been to the other locations [+1]
+nil
+
+5557
+haru on parks is simply disgusting [-1]
+nil
+
+5558
+the fish was not fresh and the rice tasted old and stale [-1]
+[fish, not fresh -1], [rice, old -1, stale -1]
+
+5559
+quite frankly, this is some of the worst sushi i have ever tried [-1]
+[sushi, worst -1]
+
+5560
+will never be back	[-1]
+nil
+
+5561
+honestly the worst sushi my husband and i had in our entire lives [-1]
+[sushi, worst -1]
+
+5562
+believe us, we've been eating sushi for over num years [+1]
+[sushi, +1]
+
+5563
+not sure why this restaurant would be rated that highly [-1]
+nil
+
+5564
+the all-u-can-eat sushi is definitely in very poor quality [-1]
+[all-u-can-eat sushi, poor quality -1]
+
+5565
+limited menu, not-so-fresh ingredients, thinly-sliced fish, fall-apart rice [-1]
+[menu, limited -1], [ingredients not-so-fresh -1], [fish, thinly-sliced -1], [rice, fall-apart -1]
+
+5566
+the only things u could really taste are the very salty soy sauce (even its low sodium), the vinegar-soaked rice, and the scallion on top of the fish [-1]
+[soy sauce, salty -1], [rice, vinegar-soaked -1]
+
+5567
+the waitstaffs are nice though [+1]
+[waitstaffs, nice +1]
+
+5568
+won't come back again for sure [-1]
+nil
+
+5569
+i have been to roth's twice and both times were very disappointing [-1]
+nil	
+
+5570
+once for dinner and once for brunch [0]
+[dinner, 0], [brunch, 0]
+
+5571
+both times i was extremely disappointed by the service, which was borderline rude [-1]
+[service, dissappointed -1, rude -1]
+
+5572
+they wouldn't even let me finish my glass of wine before offering another [-1]
+nil
+
+5573
+much of the time it seems like they do not care about you [-1]
+nil
+
+5574
+the dinner was ok, nothing i would have again [-1]
+[dinner, ok 0]
+
+5575
+i had their eggs benedict for brunch, which were the worst in my entire life, i tried removing the hollondaise sauce completely that was how failed it was [-1]
+[eggs benedict, worst -1], [brunch, worst -1], [hollondaise sauce, -1]
+
+5576
+this was a great surprise [+1]
+nil
+
+5577
+with the theater 2 blocks away we had a delicious meal in a beautiful room [+1]
+[meal, delicious +1], [room, beautiful +1]
+
+5578
+the service was attentive [+1]
+[service, attentive +1]
+
+5579
+i look forward to eating here again [+1]
+nil
+
+5580
+planet thai is great [+1]
+nil
+
+5581
+we love the food, drinks, and atmosphere [+1]
+[food, love +1], [drinks, love +1], [atmosphere, love +1]
+
+5582
+the service can be a bit rude at times, especially if you have big group, but overall the restaurant is a must [+1]
+[service, rude -1]
+
+5583
+try the pad thai, it's fabulous and their prices are so cheap [+1]
+[pad thai, fabulous +1], [prices, cheap +1]
+
+5584
+just because it's cheap does not mean the portions are small or the food is nasty, it is great [+1]
+[portions, cheap +1], [food, great +1]
+
+5585
+just remember, the later you go, the longer you may have to wait [-1]
+nil
+
+5586
+it's popular for the late crowd [0]
+nil
+
+5587
+they forgot a sandwich, did not include plastic forks, and did not include pita with the hummus platter [-1]
+[sandwich, forgot -1], [plastic forks, not include -1], [hummus platter, -1]
+
+5588
+also, the sandwiches did not come with anything like chips or a side [-1]
+[sandwiches, -1]
+
+5589
+overall, not worth the money [-1]
+nil
+
+5590
+eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience [-1]
+[atmosphere, saves +1], [experience, disappointing -1]
+
+5591
+i love indian food and consider myself to be quite an expert on it [+1]
+[indian food, +1]
+
+5592
+chennai garden is my favorite indian restaurant in the city [+1]
+nil
+
+5593
+they have authentic indian at amazing prices [+1]
+[indian, authentic +1], [prices, amazing +1]
+
+5594
+this restaurant is vegetarian there are no meat dishes whatsoever [0]
+[meat dishes, -1]
+
+5595
+the seats are uncomfortable if you are sitting against the wall on wooden benches [-1]
+[seats, uncomfortable -1]
+
+5596
+it's a rather cramped and busy restaurant and it closes early [-1]
+nil
+
+5597
+patroon features a nice cigar bar and has great staff [+1]
+[cigar bar, nice +1], [staff, great +1]
+
+5598
+the food is tasty and portion sizes are appropriate [+1]
+[food, tasty +1], [portion sizes, appropriate +1]
+
+5599
+this is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates [+1]
+[place, good +1], [dinner meeting, +1]
+
+5600
+not a great place for family or general dining [-1]
+[place, not a great -1], [dining, -1]
+
+5601
+love this place [+1]
+[place, love +1]
+
+5602
+food is excellent [+1]
+[food, excellent +1]
+
+5603
+fish is so very fresh [+1]
+[fish, fresh +1]
+
+5604
+waitstaff are very friendly [+1] 
+[waitstaff, friendly +1]
+
+5605
+love yuka [+1]
+nil
+
+5606
+mermaid inn is an overall good restaurant with really good seafood [+1]
+[seafood, good +1]
+
+5607
+the menu is limited but almost all of the dishes are excellent [+1]
+[menu, limited -1], [dishes, excellent +1]
+
+5608
+the lobster sandwich is good and the spaghetti with scallops and shrimp is great [+1]
+[lobster sandwich, good +1], [spaghetti with scallops and shrimp, great +1]
+
+5609
+the service is good and ambience is good for a date or group outing [+1]
+[service, good +1], [ambience, good +1]
+
+5610
+the only fall back on this restaurant is the prices [-1]
+[prices, fall back -1]
+
+5611
+even though its good seafood, the prices are too high [+1]
+[seafood, good +1], [prices, high -1]
+
+5612
+the lobster sandwich is small and not enough to warrant that price [-1]
+[lobster sandwich, small -1, not enough -1], [price, -1]
+
+5613
+went to village last night for my birthday [0]
+nil
+
+5614
+we picked it randomly, without a recommendation from someone who has been there, so we were not sure what to expect [0]
+nil
+
+5615
+we were very pleasantly surprised [+1]
+nil
+
+5616
+the food was delicious (i had a halibut special, my husband had steak), and the service was top-notch [+1]
+[food, delicious +1], [halibut special, delicious +1], [steak, delicious +1], [service, top-notch +1]
+
+5617
+when my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occasion of some sort [+1]
+[waiter, +1]
+
+5618
+truly the mark of an attentive waiter [+1]
+[waiter, attentive +1]
+
+5619
+i highly recommend the restaurant based on our experience last night [+1]
+nil
+
+5620
+we ate at this thai place following the reviews but very unhappy with the foods [-1]
+[foods, unhappy -1]
+
+5621
+we thought that this place is using too much of msg cooking in the foods [-1]
+[msg cooking, too much -1]
+
+5622
+why [0]
+nil
+
+5623
+they do not concern much of customer's health, just want to make money [-1]
+nil
+
+5624
+please do not fool us [-1]
+nil
+
+5625
+i visit new green bo when i have money or when i am broke [-1]
+nil
+
+5626
+i recommend the jelly fish, drunken chicken and the soupy dumplings, certainly the stir fry blue crab [+1]
+[jelly fish, recommend +1], [drunken chicken, recommend +1], [soupy dumplings, recommend +1], [stir fry blue crab, recommend +1]
+
+5627
+the food is so cheap and the waiters are nice [+1]
+[food, cheap +1], [waiters, nice +1]
+
+5628
+of course, it is crowded but who cares [+1]
+nil
+
+5629
+authentic shanghai style and i cannot recommend a better shanghai place in newyork [+1]
+[place, authentic +1, recommend +1]
+
+5630
+have frequented 'ino for several years and the food remains excellent [+1]
+[food, excellent +1]
+
+5631
+cheese plate is a varied delight and great bargain [+1]
+[cheese plate, varied delight +1, great bargain +1]
+
+5632
+the large selection of bruschettas, paninis, tramezzinis keep the palate from stagnating [+1]
+[bruschettas, large selection +1], [paninis, large selection +1], [tramezzinis, large selection +1]
+
+5633
+the asparagus, truffle oil, parmesan bruschetta is a winner [+1]
+[asparagus, winner +1], [truffle oil, winner +1], [parmesan bruschetta, winner +1]
+
+5634
+wine list is extensive and not overpriced [+1]
+[wine list, extensive +1, not overpriced +1]
+
+5635
+be sure to try the seasonal, and always delicious, specials [+1]
+nil
+
+5636
+definitely a neighborhood favorite [+1]
+nil
+
+5637
+i loved this place [+1]
+[place, loved +1]
+
+5638
+i almost hesitate to write a review because the atmosphere was so great and i would hate for it to become too crowded [+1]
+[atmosphere, great +1]
+
+5639
+the food was very good, a great deal, and the place its self was great [+1]
+[food, good +1], [deal, great +1], [place, great +1]
+
+5640
+the waitstaff is very friendly, they make it feel like you're eating in a friendly little european town [+1]
+[waitstaff, freindly +1]
+
+5641
+i like cafe noir don't get me wrong, it is just that the people who work there are evil and incompetent [-1]
+[people, evil -1, incompetent -1]
+
+5642
+the service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served [-1]
+[service, terrible -1]
+
+5643
+the waitress, seems to be more concerned of looking good than actually waitressing [-1]
+[waitress, -1]
+
+5644
+after dinner the manager grabbed my boyfriend, asked him: where are you from maybe you don't know how things work in america and in the end stormed away almost tear eyed yelling that tips are the only thing they survive on [-1]
+[manager, yelling -1]
+
+5645
+we did tip, i guess the waitress just wanted more and complained to the manager [-1]
+[waitress, -1]
+
+5646
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff, because despite the current one this is a great place [+1]
+[staff,	unprofessional -1], [place, great +1]
+
+5647
+pizza here is consistently good [+1]
+[pizza, good +1]
+
+5648
+salads are a delicious way to begin the meal [+1]
+[salads, delicious +1]
+
+5649
+you should pass on the calamari [-1]
+[calamari, pass on -1]
+
+5650
+it is thick and slightly soggy [-1]
+nil
+
+5651
+decor is charming [+1]
+[decor, charming +1]
+
+5652
+service is average [0]
+[service, average 0]
+
+5653
+what a great place 
+[place, great +1]
+
+5654
+i came into the city to try out this restaurant because a friend had recommended it to my husband [0]
+nil
+
+5655
+the ambience was so fun, and the prices were great, on top of the fact that the food was really tasty [+1]
+[ambience, fun +1], [prices, great +1], [food, tasty +1]
+
+5656
+i was not thrilled to have to wait on line for thirty minutes, but i guess that's the price you pay for a popular place [-1]
+[place, popular +1]
+
+5657
+i would definitely recommend sea if you like thai cuisine [+1]
+[thai cuisine, recommend +1, like +1]
+
+5658
+i was here a few weeks back and we had the worst customer service experience at a restaurant ever [-1]
+[customer service, worst -1]
+
+5659
+a gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order [-1]
+nil
+
+5660
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants, he replied this is not mcdonald's, every place makes things differently [-1]
+nil
+
+5661
+while it is understandable that every place is indeed different, there was not a need to be uncourteous to customers and downright rude [-1]
+nil
+
+5662
+the service was poor, restaurant poorly lit, staff not attentive and i would have rather eaten at a mcdonald's than this joint [-1]
+[service, poor -1], [staff, not attentive -1]
+
+5663
+never again [-1]
+nil
+
+5664
+i absolutely loved this place [+1]
+[place, loved +1]
+
+5665
+my friends spoke so much about it for months, i finally made the time to come down ear and dine in [0]
+nil
+
+5666
+excellent atmosphere, delicious dishes good and friendly service [+1]
+[atmosphere, excellent +1], [dishes, delicious +1], [service, good +1, friendly +1]
+
+5667
+this is can became one of the ny italian food fare institutions [+1]
+nil
+
+5668
+i think that it is absolutely brilliant and well runned business operation [+1]
+nil
+
+5669
+the wine list is also really nice [+1]
+[wine list, nice +1]
+
+5670
+a friend from seattle and i went on a thursday night [0]
+nil
+
+5671
+everything was wonderful food, drinks, staff, milieu [+1]
+[food, wonderful +1], [drinks, wonderful +1], [staff, wonderful +1], [mileau, wonderful +1]
+
+5672
+i would highly recommend this place [+1]
+[place, recommend +1]
+
+5673
+i have been to casimir many times and i have always had a great time there  [+1]
+nil
+
+5674
+the food is great and reasonably priced [+1]
+[food, great +1, reasonably priced +1]]
+
+5675
+i have tried to make reservations, but both times, the hostess did not have my name [-1]
+[reservations, -1]
+
+5676
+if the weather is nice, try to snag an outside table [+1]
+nil
+
+5677
+the staff  seemed really stressed and the unisex bathroom needs to be cleaned more often [-1]
+[staff, stressed -1], [bathroom, needs to be cleaned -1] 
+
+5678
+my boyfriend and i went there to celebrate my birthday the other night and all i can say is that it was magnificent [+1]
+nil
+
+5679
+from the spectacular caviar to the hospitable waitstaff, i felt like royalty and enjoyed every second of it [+1]
+[caviar, spectacular +1], [waitstaff, hospitable +1]
+
+5680
+considering we were the last patrons there and it was after the closing time, the waitstaff did not rush us at all and made us feel comfortable and relaxed [+1]
+[waitstaff, not rush +1]
+
+5681
+i highly recommend caviar russe to anyone who wants delicious top grade caviar and fantastic service [+1]
+[caviar, delicious +1, top grade +1], [service, fantastic +1]
+
+5682
+nice family owned traditional restaurant [+1]
+nil
+
+5683
+fresh ingredients and everything is made to order [+1]
+[ingredients, fresh +1]
+
+5684
+i was pleasantly surprised to find this gem in hoboken [+1]
+nil
+
+5685
+friendly staff that actually lets you enjoy your meal and the company you're with [+1]
+[staff, friendly +1], [meal, enjoy +1]
+
+5686
+my friends and i were on vacation in ny and was referred to chance by a friend [0]
+nil
+
+5687
+i found the food to be outstanding, particularly the salmon dish i had [+1]
+[food, outstanding +1], [salmon dish, outstanding +1]
+
+5688
+i also ordered the change mojito, which was out-of-this-world [+1]
+[change mojito, out-of-this-world +1]
+
+5689
+my friends settled for rice dishes, but we came back the following day to try the dim-sum, which was good  [+1]
+[dim-sum, good +1]
+
+5690
+we ate out in the back patio, which is worth it as it's cool and the music is hear well there [+1]
+[back patio, worth +1, cool +1], [music, well +1]
+
+5691
+overall, excellent restaurant [+1]
+nil
+
+5692
+i went to utsav about a year ago with my family [0]
+nil
+
+5693
+the food was good [+1]
+[food, good +1]
+
+5694
+the place was nice and calm [+1]
+[place, nice +1, calm +1]
+
+5695
+but the service was a bit slow [-1]
+[service, slow -1]
+
+5696
+i work around the corner and tried it with a colleague for the first time [0]
+nil
+
+5697
+the buffet had a nice selection [+1]
+[buffet, nice +1]
+
+5698
+the food was average or above including some surprising tasty dishes [+1]
+[food, average or above +1], [dishes, surprising +1, tasty +1]
+
+5699
+service was also very good [+1]
+[service, good +1]
+
+5700
+i would go back [+1]
+nil
+
+5701
+i got an excellent piece of cheesecake and we had several other nice pastries [+1]
+[cheesecake, excellent +1], [pastries, nice +1]
+
+5702
+i would recommend roxy's for that, but not for their food [0]
+[food, recommend +1], [food, -1]
+
+5703
+my son and his girlfriend both wanted cheeseburgers and they were huge [+1]
+[cheeseburgers, huge +1]
+
+5704
+but, they were too big for the bun [-1]
+nil
+
+5705
+consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them [0]
+nil
+
+5706
+also they were each [0]
+nil
+
+5707
+i had a huge pastrami sandwich on a roll [+1]
+[pastrami sandwich, huge +1]
+
+5708
+it was not really bad for a pound of pastrami - but it did not have much taste - i've had better for less elsewhere [+1]
+nil
+
+5709
+this place is really trendi but they have forgotten about the most important part of a restaurant, the food [-1]
+[place, trendi +1], [food, forgotten -1]
+
+5710
+the last two times i ordered from here my food was so spicy that i could barely eat it, and the spice took away from the flavor of the dish [-1]
+[food, spicy -1]
+
+5711
+and the tom kha soup was pathetic [-1]
+[tom kha soup, pathetic -1]
+
+5712
+if you want good authentic thai this place is not the place to go [-1]
+[place, -1]
+
+5713
+we went here for lunch a couple of weeks ago on a saturday, and i was thoroughly impressed with the food [+1]
+[food, impressed +1]
+
+5714
+the pesto pizza was excellent, thin-crust pizza with a nice amount of spicy italian cheese that i'd never heard of before [+1]
+[pesto pizza, excellent +1], [spicy italian cheese, nice +1]
+
+5715
+conveniently located too, being right on bedford ave [+1]
+nil
+
+5716
+the back garden sitting area is very pleasant, where you can see their personal herb garden [+1]
+[back garden sitting area, pleasant +1], [personal herb garden, +1]
+
+5717
+i will definitely be going back [+1]
+nil
+
+5718
+we had the lobster sandwich and it was fantastic [+1]
+[lobster sandwich, fantastic +1]
+
+5719
+the portion was fine for me he even exclaimed that the french fries were the best he has had [+1]
+[portion, fine +1], [french fries, best +1]
+
+5720
+we had the scallops as an appetizer and they were delicious and the sauce was wonderful [+1]
+[scallops, delicious +1], [sauce, wonderful +1]
+
+5721
+i recommend getting a reservation even though we saw people seated without one [+1]
+[reservation, recommend +1]
+
+5722
+we waited at the bar and had martinis that were just right [+1]
+[martinis, right +1]
+
+5723
+we will be back [+1]
+nil
+
+5724
+love the food [+1]
+[food, love +1]
+
+5725
+it's the only place you can get yummy authentic japanese comfort food [+1]
+[japanese comfort food, yummy +1, authentic +1]
+
+5726
+it helps if you know what to order [0]
+nil
+
+5727
+and you cannot beat the prices [+1]
+[prices, cannot beat +1] 
+
+5728
+highly recommended [+1]
+nil
+
+5729
+i've lived in ny for num years and this place has it all [+1]
+[place, +1]
+
+5730
+great food, good size menu, great service and an unpretentious setting [+1]
+[food, great +1], [menu, good size +1], [service, great +1], [setting, unpretentious +1]
+
+5731
+the dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest i've ever had) [+1]
+[dishes, unique +1, tasty +1, fresh +1], [lamb sausages, unique +1, tasty +1, fresh +1], [sardines with biscuits, unique +1, tasty +1, fresh +1], [whole shrimp, unique +1, tasty +1, fresh +1, large +1], [pistachio ice cream, unique +1, tasty +1, fresh +1, amazing +1, best +1, freshest +1]
+
+5732
+i'm glad i was introduced to this place and this is a rare gem in ny [+1]
+[place, rare gem +1]
+
+5733
+we have tried every thai restaurant between atlantic avenue and num streets, and joya is the best [+1]
+nil
+
+5734
+the freshest, best variety, and the fastest delivery [+1]
+[variety, best +1], [delivery, fastest +1]
+
+5735
+also very inexpensive [+1]
+nil
+
+5736
+a great choice at any cost and a great deal [+1]
+nil
+
+5737
+the service was excellent and the food was delicious [+1]
+[service, excellent +1], [food, delicious +1]
+
+5738
+we are very particular about sushi and were both please with every choice which included: ceviche mix special, crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura [+1]
+[sushi, please +1], [ceviche mix, please +1], [crab dumplings, please +1], [assorted sashimi, please +1] [rolls, please +1], [sake, please +1], [banana tempura, please +1]  
+
+5739
+overall the restaurant is more expensive than our other sushi favorites, but everything was delicious [+1]
+nil
+
+5740
+definitely a great spot for a nice occasion or date [+1]
+[spot, great +1]
+
+5741
+average to good thai food, but terrible delivery [0]
+[thai food, average to good +1], [delivery, terrible -1]
+
+5742
+i've waited over one hour for food [-1]
+nil
+
+5743
+they were very abrupt with me when i called and actually claimed the food was late because they were out of rice [-1]
+[food, late -1, out of rice -1]
+
+5744
+a thai restaurant out of rice during dinner [-1]
+nil
+
+5745
+the food arrived after i called, cold and soggy [-1]
+[food, cold -1, soggy -1]
+
+5746
+i actually feel like i should keep it a secret [0]
+nil
+
+5747
+this is a wonderful place on all stand points especially value offer money [+1]
+[place,	wonderful +1]
+
+5748
+an excellent service [+1]
+[service, excellent +1]
+
+5749
+went to cafe spice with my friends on a saturday night [0]
+nil
+
+5750
+we were greeted promptly by the waiter who was very nice and cordial [+1]
+[waiter, promptly greeted +1, nice +1, cordial +1]
+
+5751
+she was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about indian food [+1]
+[dishes, good +1]
+
+5752
+we were fast to order the appetizer platter since we were very hungry [0]
+nil
+
+5753
+the food looked very appetizing and delicious since it came on a variety of fancy plates [+1]
+[food, appetizing +1, delicious +1], [plates, fancy +1]
+
+5754
+we ended our great experience by having gulab jamun dessert recommended by the waiter [+1]
+[experience, great +1], [gulab jamun dessert, recommended +1
+
+5755
+i thanked my friend who recommended me this restaurant and will certainly recommend it to others [+1]
+nil
+
+5756
+i went here with a friend on a whim, we went someplace else first and could not get a table [0]
+nil
+
+5757
+service here was great, food was fantastic	[+1]
+[service, great +1], [food, fantastic +1]
+
+5758
+guacamole shrimp appetizer was really great, we both had the filet, very good, did not much like the frites that came with, but the filet was so good, neither of us cared [+1]
+[guacamole shrimp appetizer, great +1], [frites, not much like -1], [filet, good +1]
+
+5759
+will absolutely visit again [+1]
+nil
+
+5760
+maybe tomorrow [0]
+nil
+
+5761
+you cannot go wrong with this place [+1]
+[place, cannot go wrong +1]
+
+5762
+the food is outstanding and the service is quick, friendly and very professional [+1]
+[food, outstanding +1], [service, quick +1, friendly +1, professional +1]
+
+5763
+always a nice crowd, but never loud [+1]
+[crowd, +nice, never loud +1]
+
+5764
+go here [+1]
+nil
+
+5765
+good for dates or with friends [+1]
+nil
+
+5766
+i am reluctant to write because i would not want my gem of a pizza place to become overcrowded [+1]
+[place, gem +1]
+
+5767
+however, it is just too good to not praise it [+1]
+nil
+
+5768
+by far, the best pizza in manhattan [+1]
+[pizza, best +1]
+
+5769
+the crust is thin, the ingredients are fresh and the staff is friendly [+1]
+[crust, thin +1], [ingredients, fresh +1], [staff, friendly +1]
+
+5770
+for all you lazy folks that do not want to come to alphabet city, i say, good - stay out [+1]
+nil
+
+5771
+less wait time for me [+1]
+nil
+
+5772
+we arrived on time for our reservation and seated promptly [+1]
+[seated, promptly +1]
+
+5773
+the menu has so many fish items and oysters [0]
+[menu, 0]
+
+5774
+we all ordered different entrees so we could share [0]
+nil
+
+5775
+the fish was really, really fresh [+1]
+[fish, fresh +1]
+
+5776
+i lived in maine for ten years and grew up on fish [0]
+nil
+
+5777
+we all agreed that mare is one of the best seafood restaurants in newyork [+1]
+nil
+
+5778
+i stumbled upon this great pizzeria as i explored my new neighborhood [+1]
+nil
+
+5779
+all of the pizzas are terrific and the price is even better [+1]
+[pizzas, terrific +1], [place, better +1]
+
+5780
+i highly recommend the sophia pizza [+1]
+[sophia pizza, recommend +1]
+
+5781
+it's to die for [+1]
+nil
+
+5782
+the food was mediocre at best but it was the horrible service that made me vow never to go back [-1]
+[food, mediocre at best 0], [service,  horrible -1]
+
+5783
+immediately after we paid, the waiter took the money and said, ok, you guys are out of here [-1]
+[waiter, -1]
+
+5784
+there are other people waiting [-1]
+nil
+
+5785
+we were not even at our table for more than an hour total [+1]
+nil
+
+5786
+as we were leaving, the couple standing by the door said to another waiter, we're not in a hurry [0]
+nil
+
+5787
+our friends have not arrived yet [0]
+nil
+
+5788
+so rushing us out was absolutely unnecessary [-1]
+nil
+
+5789
+for the people who want great food plus great service, roxy is a place to avoid [-1]
+[food, -1], [service, -1], [place, avoid -1]
+
+5790
+i've been here twice now [0]
+nil
+
+5791
+the sushi was outstanding [+1]
+[sushi, outstanding +1]
+
+5792
+i'm sure i'll return for a final judgement though [+1]
+nil
+
+5793
+the blond wood decor is very soothing, the premium sake is excellent and the service is great [+1]
+[blond wood decor, soothing +1], [sake, excellent +1], [service, great +1]
+
+5794
+mizu is the japanese find in gram mercy [0]
+nil
+
+5795
+while their kitchen food is delicious, their sushi is out-of-this-world [+1]
+[kitchen food,	delicious +1], [sushi, out-of-this-world +1]
+
+5796
+mizu is home to creative and unique rolls not to found anywhere else [+1]
+[rolls, creative +1, unique +1]
+
+5797
+not only is the cuisine the best around, the service has always been attentive and charming [+1]
+[cuisine, best +1], [service, attentive +1, charming +1]
+
+5798
+warning: you may find it difficult to dine at other japanese restaurants after a visit to mizu [+1]
+nil
+
+5799
+thalia is a beautiful restaurant with beautiful people serving you, but the food does not quite match up [0]
+[people, beautiful +1], [food, -1]
+
+5800
+i ordered the smoked salmon and roe appetizer and it was off flavor [-1]
+[smoked salmon, off flavor -1], [roe appetizer, off flavor -1]
+
+5801
+the entree was bland and small, dessert was not inspired [-1]
+[entree, bland -1, small -1], [dessert, not inspired +1]
+
+5802
+i expected quite a bit more from such an expensive menu [-1]
+[menu, expensive -1]
+
+5803
+the view is spectacular, and the food is great [+1]
+[view, spectacular +1], [food, great +1]
+
+5804
+wonderful strawberry daiquiries as well [+1]
+[strawberry daiquiries, wonderful +1]
+
+5805
+definitely worth the trip to battery park city [+1]
+[trip, worth +1]
+
+5806
+one of my favorite places in manhattan [+1]
+nil
+
+5807
+authentic taiwanese food that's cheap what more could you ask for [+1]
+[taiwanese food, authentic +1, cheap +1]
+
+5808
+besides that there should be more restaurants like it around the city [+1]
+nil
+
+5809
+the cold appetizer dishes taste like the way i remember them to taste when i was growing up in taiwan [0]
+nil
+
+5810
+delicious simple food in nice outdoor atmosphere [+1]
+[food, delicious +1, simple +1], [atmosphere, nice +1]
+
+5811
+kind, attentive waitstaff [+1]
+[waitstaff, kind +1, attentive +1]
+
+5812
+i really like both the scallops and the mahi on saffron risotto [+1]
+[scallops,	like +1], [mahi mahi on saffron risotto, like +1]
+
+5813
+my friend devoured her chicken and mashed potatoes [+1]
+[chicken and mashed potatos, devoured +1]
+
+5814
+delicious crab cakes too [+1]
+[crab cakes, delicious +1]
+
+5815
+even if the food was not good, the garden is a great place [-1]
+[food, not good -1], [garden, great +1]
+
+5816
+great neighborhood joint [+1]
+nil
+
+5817
+this is a nice pizza place with good selection of thin crust pizza including the basil slice [+1]
+[pizza place, nice +1], [thin crust pizza, good selection+1]
+
+5818
+their calzones are horrific, bad, vomit-inducing, yuck [-1]
+[calzones, horrific -1, bad -1, vomit-inducing -1, yuck -1]
+
+5819
+they smell like they stuff them with old canned vegetables like the spinach mushroom calzone [-1]
+[vegetables, old canned -1]
+
+5820
+the counter service is bad [-1]
+[counter service, bad -1]
+
+5821
+they charge different prices all the time [-1]
+[prices, different -1]
+
+5822
+they're rude at times, and not very friendly [-1]
+nil
+
+5823
+no pizza num for me [-1]
+nil
+
+5824
+anybody who likes this place must be from a different planet, where greasy, dry and tasteless are complimentary [-1]
+nil
+
+5825
+the dosas are skimpy, unattractive and drip with grease, and personally i'd drink popcorn topping before i'd eat another one of these [-1]
+[dosas, skimpy -1, unattractive -1, drip with grease -1]
+
+5826
+the sandwiches are dry, tasteless and way overpriced [-1]
+[sandwiches, dry -1, tasteless -1, overpriced -1]
+
+5827
+calling the place hampton chutney co does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too [+1]
+[place, -1], [room, unattractive -1], [clerks, unhelpful -1]
+
+5828
+seriously, this place kicks ass [-1]
+[place, kicks ass -1]
+
+5829
+the atmosphere is unheralded, the service impeccable, and the food magnificent [+1]
+[atmosphere,unheralded +1], [service,impeccable +1], [food, magnificent +1]
+
+5830
+best italian food i ever had (and being italian, that means a lot) [+1]
+[italian food, best +1]
+
+5831
+it is nearly impossible to get a table, so if you ever have the chance to go here for dinner, do not pass it up [-1]
+[table, impossible to get -1]
+
+5832
+this is such a lovely, peaceful place to eat outside [+1]
+[place, lovely +1, peaceful +1]
+
+5833
+the restaurant looks out over beautiful green lawns to the hudson river and the statue of liberty [+1]
+nil
+
+5834
+it is set far from the small street it's on, and there is no traffic noise [+1]
+nil
+
+5835
+the food is good, especially their more basic dishes, and the drinks are delicious [+1]
+[food, good +1], [dishes, good +1], [drinks, delicious +1]
+
+5836
+this is a great place to take out-of-towners, and perfect for watching the sunset [+1]
+[place, great +1]
+
+5837
+great sushi experience [+1]
+[sushi, great +1]
+
+5838
+nice value [+1]
+nil
+
+5839
+unique appetizers [+1]
+[apppetizers, unique +1]
+
+5840
+try sushimi cucumber roll [+1]
+[sushimi cucumber roll, try +1]
+
+5841
+good spreads, great beverage selections and bagels really tasty  [+1]
+[spreads, good +1], [beverage selections, great +1], [bagels, tasty +1]
+
+5842
+the big complaint: no toasting available [-1]
+nil
+
+5843
+i complete the total bagel experience by having it lightly toasted [+1]
+nil
+
+5844
+murray won't do it [-1]
+nil
+
+5845
+won't or can't is not in the service directory [+1]
+nil
+
+5846
+but who says murray's is anything about service [-1]
+[service, -1]
+
+5847
+so close, but not good enough [-1]
+nil
+
+5848
+do not be fooled by crowds of people [0]
+nil
+
+5849
+the service is awful [-1]
+[service, awful -1]
+
+5850
+this place is not worth the prices [-1]
+[place, not worth -1]
+
+5851
+also, do not plan on asking for your favorite roll, if it's not on the menu, you can't have it [-1]
+nil
+
+5852
+love pizza num [+1]
+nil
+
+5853
+i will be out with friends and all of a sudden i am hungry and i only crave one thing their pizza [+1]
+[pizza, crave +1]
+
+5854
+i live in the neighborhood and am a regular [+1]
+nil
+
+5855
+it hits the spot every time [+1]
+[spot, hits +1]
+
+5856
+this tiny williamsburg spot is always pleasantly surprising [+1]
+nil
+
+5857
+the pizza is delicious and the proprietor is one of the nicest in nyc [+1]
+[pizza, delicious +1], [proprietor, nicest +1]
+
+5858
+even the pasta is delicious here (a rarity in newyork pizza restaurants) [+1]
+[pasta, delicious +1]
+
+5859
+i've been many time and have never been disappointed [+1]
+nil
+
+5860
+compared to ess-a, tal offers a less doughy bagel [+1]
+[bagel, less doughy +1]
+
+5861
+they even scoop it out nice (for those on a diet) not too much not to little [+1]
+nil
+
+5862
+the cream cheeses are out-of-this-world and i love that coffee [+1]
+[cream cheeses, out-of-this-world +1], [coffee, love +1]
+
+5863
+a little crowded but they move that line really fast [+1]
+nil
+
+5864
+a little pricey but it really hits the spot on a sunday morning [+1]
+[spot, hits +1, little pricey -1]
+
+5865
+bagels are ok, but be sure not to make any special requests [0]
+[bagels, ok 0]
+
+5866
+i asked for an open faced cheese sandwich and the manager basically told me to take my business elsewhere [-1]
+nil
+
+5867
+be sure not to get anything other than bagels [+1]
+[bagels, +1]
+
+5868
+the turkey burgers are scary [-1]
+[turkey burgers, scary -1]
+
+5869
+the worst excuse for japanese food i've ever encountered [-1]
+nil
+
+5870
+the soup for the udon was soy sauce and water 	[-1]
+[soup for the udon, -1]
+
+5871
+the sushi was awful [-1]
+[sushi, awful -1]
+
+5872
+the rice was poor quality and was cooked so badly it was hard [-1]
+[rice, poor quality -1, cooked so badly -1, hard -1]
+
+5873
+furthermore, the rice had no seasoning, so the sushi was bland and disgusting [-1]
+[rice, -1], [seasoning, -1], [sushi, bland -1, disgusting -1]
+
+5874
+the fish was adequate [+1]
+[fish, adequate +1]
+
+5875
+it is obvious that no one in the restaurant has any idea about or experience with japanese cuisine [-1]
+nil
+
+5876
+good, fast service  [+1]
+[service, good +1, fast +1]
+
+5877
+i would highly recommend [+1]
+nil
+
+5878
+food is great and inexpensive [+1]
+[food, great +1, inexpensive +1]
+
+5879
+the location is perfect [+1]
+[location, perfect +1]
+
+5880
+give it a try and enjoy [+1]
+nil
+
+5881
+i thought going to jimmys would give me a real domincan experience [-1]
+nil
+
+5882
+jimmy is dominican [+1]
+nil
+
+5883
+well, this place is so ghetto it's not even funny [-1]
+[place, ghetto -1, not even funny -1]
+
+5884
+if you like your music blasted and the system isn't that great and if you want to pay at least 10 dollar bottle minimum then you'll love it here [-1]
+[music, blasted -1], [bottle, -1]
+
+5885
+would never go back there [-1]
+nil
+
+5886
+too bad latin quarters closed [-1]
+nil
+
+5887
+that place was awesome, sally [+1]
+n[place, awesome +1]
+
+5888
+awesome pizza especially the margheritta slice [+1]
+[pizza, awsome +1], [margheritta slice, awesome +1]
+
+5889
+always busy but fast moving [+1]
+nil
+
+5890
+great atmosphere and worth every bit [+1]
+[atmosphere, great +1, worth +1]
+
+5891
+open late (well as late as i ever got there and i'm a night person) [+1]
+nil
+
+5892
+winnie and her staff are the best crew you can find serving you [+1]
+[crew, best +1]
+
+5893
+the food is reliable and the price is moderate [+1]
+[food, reliable +1], [price, moderate +1]
+
+5894
+what more can you ask for [+1]
+nil
+
+5895
+for authentic thai food, look no further than toons [+1]
+[thai food, authentic +1]
+
+5896
+i've been to many thai restaurants in manhattan before, and toons is by far the best thai food i've had (except for my moms of course) [+1]
+[thai food, best +1]
+
+5897
+try the pad thai, or sample anything on the appetizer menu they're all delicious [+1]
+[pad thai, try +1], [appetizer menu, delicious +1]
+
+5898	
+everything about this restaurant was special [+1]
+nil
+
+5899
+the service was attentive, yet discreet [+1]
+[service, attentive +1, discreet -1]
+
+5900
+the flavors robust and subtle [+1]
+[flavors, robust +1, subtle +1]
+
+5901
+the brioche and lollies as party favors is a cute and sweet touch to a most memorable meal [+1]
+[brioche and lollies, cute +1, sweet +1], [meal, memorable +1]
+
+5902
+i'm saving up for my next visit [+1]
+nil
+
+5903
+i went there in late afternoon for some bite size food and refreshment with my date [+1]
+nil
+
+5904
+the place was quiet and delightful [+1]
+[place, quiet +1, delightful +1]
+
+5905
+service was good and food is wonderful [+1]
+[service, good +1], [food, wonderful +1]
+
+5906
+i did not try the caviar but i tried their salmon and crab salad (they are all good) [+1]
+[salmon, good +1], [crab salad, good +1]
+
+5907
+it is definitely a good spot for snacks and chat [+1]
+[spot, good +1]
+
+5908
+as a retired hipster, i can say with some degree of certainty that for the last year lucky strike has been the best laid-back late night in the city [0]
+nil
+
+5909
+the waitstaff is pleasant, fun, and for the most part gorgeous (in the wonderful aesthetic beautification way, not in that she's-way-cuter-than-me-that-b way) [+1]
+[waitstaff, pleasant +1, fun +1, gorgeous +1]
+
+5910
+the food is yummy, especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries [+1]
+[food, yummy +1], [mussels in spicy tomato sauce, cooked-to-perfection +1], [fries, cooked-to-perfection +1]
+
+5911
+but the best part about ls is the late night atmosphere, delightfully free of the bts [+1]
+[late night atmosphere, best +1]
+
+5912
+you can get a completely delish martini in a glass (that's about drinks) (i recommend the vanilla shanty, mmmm ) in a great homey setting with great music [+1]
+[martini, delish +1], [vanilla shanty, recommend +1], [setting, great +1, homey +1], [music, great +1]
+
+5913
+the in-house lady dj on saturday nights has outrageously good taste in music, and moreover, takes requests [+1]
+[in-house lady dj, good +1]
+
+5914
+you can't go wrong with this place [0]
+[place, 0]
+
+5915
+suan is a great place that i often take my friends (classmates) too [+1]
+[place,	great +1]
+
+5916
+its location is good and the fact that hunter college is near and their prices are very reasonable, makes students go back to suan again and again [+1]
+[location, good +1], [prices, reasonable +1]
+
+5917
+i love their thai [+1]
+[thai, love +1]
+
+5918
+noodles with shrimp and chicken and coconut juice is the must [+1]
+[noodles with shrimp and chicken and coconut juice, must +1]
+
+5919
+i was in love with pongsri but compared to suan it is slow in service and overpriced [+1]
+[service, slow -1]
+
+5920
+i will go back to suan soon [+1]
+nil
+
+5921
+in summer - eat outside on a terrace (another great feature of suan) [+1]
+[terrace, great +1]
+
+5922
+i cannot imagine a friendlier staff working in a restaurant [+1]
+[staff, friendlier +1]
+
+5923
+i cannot imagine better indian food in all of the city [+1]
+[indian food, better +1]
+
+5924
+i cannot imagine you not rushing out to eat there [+1]
+nil
+
+5925
+this restaurant used to be our regular thursday night dinner location [0]
+nil
+
+5926
+during the course of the past num months, the chef and staff changed and it was not better [-1]
+[chef, not better -1], [staff, not better +1]
+
+5927
+i wish they would change back to what it was before [-1]
+nil
+
+5928
+the food now is inconsistent [-1]
+[food, inconsistent -1]
+
+5929
+this is the kind of place you'd like to take all your friends to and still keep a secret [+1]
+nil
+
+5930
+the setting is casual and romantic [+1]
+[setting, casual +1, romantic +1]
+
+5931
+prices are very good [+1]
+[prices, good +1]
+
+5932
+the food is excellent [+1]
+[food, excellent +1]
+
+5933
+if you're daring, try the balsamic vinegar over ice cream, it's wonderful [+1]
+[balsamic vinegar over icecream, try +1, wonderful +1]
+
+5934
+do not get the go go hamburgers, no matter what the reviews say [-1]
+[go go hamburgers, -1]
+
+5935
+they were such a rip-off ( four small meat patties in steamed buns) and not worth trying [-1]
+nil
+
+5936
+the rest of the dim-sum, by chinatown standards, is worth it [+1]
+[dim-sum, worth +1]
+
+5937
+steamed fresh so brought hot hot hot to your table [+1]
+nil
+
+5938
+the wait here is long for dim-sum, but if you do not like sharing tables or if the typical raucous dim-sum atmosphere is not your gig, this is a sleek (for chinatown) alternative [-1]
+[wait, long -1], [atmosphere, sleek +1]
+ 
+
+5939
+a few tips: skip the turnip cake, roast pork buns and egg custards [-1]
+[turnip cake, skip -1], [roast pork buns, skip -1], [egg custards, skip -1]
+
+5940
+these are overpriced and you can get better just around the corner [-1]
+nil
+
+5941
+num turnip cakes at the little kiosk on east side of mott st just south of bayard [0]
+nil
+
+5942
+egg custards and pork buns at either bakery on west side of mott street just south of canal [0]
+nil
+
+5943
+after passing by this restaurant for some time i finally decided to go in and have dinner [0]
+[dinner, 0]
+
+5944
+i was pleasantly surprised [+1]
+nil
+
+5945
+the food was exceptional [+1]
+[food, exceptional +1]
+
+5946
+the menu consisted of standard brassiere food, better then places like balthazar etc [+1]
+[food, better +1]
+
+5947
+i choose to go with one of the special, the braised lamb shank in red wine, which was excellent [+1]
+[special, excellent +1], [braised lamb shank in red wine, excellent +1]
+
+5948
+the service was friendly and the atmosphere was casual [+1]
+[service, friendly +1], [atmosphere, casual +1]
+
+5949
+the restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal [+1]
+[meal, enjoy +1, great +1]
+
+5950
+this little place has a cute interior decor and affordable city prices [+1]
+[interior decor, cute +1], [prices, affordable +1]
+
+5951
+the pad se ew chicken was delicious, however the pad thai was far too oily [0]
+[pad se ew chicken, delicious +1], [pad thai, oily -1]
+
+5952
+i would just ask for no oil next time [-1]
+nil
+
+5953
+have eaten at ginger house several times, and it's always good [+1]
+nil
+
+5954
+the fried dumplings are great [+1]
+[fried dumplings, great +1]
+
+5955
+finally a reliable chinese restaurant [+1]
+nil
+
+5956
+this place would be so much better served by being run by a group that actually understands customer service [-1]
+[place, -1], [customer service, -1]
+
+5957
+the only thing you can do here is walk in and eat but planning an event, especially a small, intimate one, forget about it [-1]
+nil
+
+5958
+they are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret choosing this place, but also become hostile [-1]
+nil
+
+5959
+nobody at this restaurant will give firm answers about anything and in the end, not one person takes responsibility for anything [-1]
+nil
+
+5960
+terrible, terrible management - deserves to be shut-down [-1]
+[management, terrible -1]
+
+5961
+never fails to please [+1]
+nil
+
+5962
+delicious bagels, especially when right out of the oven [+1]
+[bagels, delicious +1]
+
+5963
+spreads and toppings are great [+1]
+[spreads, great +1], [toppings, great +1]
+
+5964
+service is fast and friendly [+1]
+[service, fast +1, friendly +1]
+
+5965
+only drawback - they won't toast your bagel, and they do not make eggs for the bagel [-1]
+[bagel, drawback -1]
+
+5966
+but that is highly forgivable [+1]
+nil
+
+5967
+been there, done that, and newyork, it's not that big a deal [-1]
+nil
+
+5968
+the food is decent at best, and the ambience, well, i thought it was just annoying [0]
+[food, decent at best +1], [ambience, annoying -1]
+
+5969
+if celebrities make you sweat, then you're in for a ride, but if you're like most around these parts then you'll just yawn and wonder what's with all the hype [0]
+nil
+
+5970
+rao is a good restaurant, but it's nothing special, [+1]
+nil
+
+5971
+i've eaten at many different indian restaurants [0]
+nil
+
+5972
+but after last night, spice grill is the only place i'm eating indian cuisine [+1]
+[place, +1], [indian cuisine, +1]
+
+5973
+you must try the shrimp appetizers [+1]
+[shrimp appetizers, try +1]
+
+5974
+even my indian friend could not believe how good and tasty everything was [+1]
+nil
+
+5975
+this place has the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time [+1]
+[place, +1], [ambience, correct +1], [staff, excellent +1]
+
+5976
+great food, great prices, great service [+1]
+[food, great +1], [prices, great +1], [service, great +1]
+
+5977
+if you are looking for a good quality, cheap eats - this is the place [+1]
+[quality, good +1], [food, cheap +1]
+
+5978
+it's a perfect place to have an amazing indian food [+1]
+[place, perfect +1], [indian food, amazing +1]
+
+5979
+i really loved the different and innovated touch that's the chef gives to the food [+1]
+[chef, +1], [food, loved +1, different +1, innovated +1]
+
+5980
+also it's great to have dinner in a very romantic and comfortable place, the service it's just perfect they're so friendly that we never want to live the place [+1]
+[place, romantic +1, comfortable +1], [service, perfect +1, friendly +1]
+
+5981
+i love ess-a-bagel, but i live on the west side, so i often go to murray's for convenience [+1]
+nil
+
+5982
+not really a 'special' bagel experience [-1]
+[bagel experience, not really a 'special' -1]
+
+5983
+better than the bagel shop on the corner, but not worth going out of your way for, in my opinion [-1]
+nil
+
+5984
+also a little more expensive than your average bagel place [-1]
+nil
+
+5985
+great bagels made the old-fashioned way [+1]
+[bagels, great +1]
+
+5986
+the appetizing is excellent - just as good as zabars barney greengrass at a reasonable price (if bought by the pound) [+1]
+[appetizing, excellent +1], [price, reasonable +1]
+
+5987
+drawbacks: service is slow and they do not toast [-1]
+[service, slow -1]
+
+5988
+the food was absolutely amazing [+1]
+[food, amazing +1]
+
+5989
+the baked clams octopus we shared as appetizers were the best we've ever had [+1]
+[baked clams octopus, best +1]
+
+5990
+the lamb was tender so full of flavor, the dessert was divine [+1]
+[lamb, tender +1, full of flavor +1], [dessert, divine +1]
+
+5991
+the waiter was attentive [+1]
+[waiter, attentive +1]
+
+5992
+the place itself is beautiful the bar scene seems to be happening [+1]
+[place, beautiful +1], [bar scene, happening +1	]
+
+5993
+downtown dinner - price fix: appetizers were ok, waiter gave me poor suggestion try the potato stuff kanish best one [0]
+[appetizers, ok 0], [waiter, poor -1], [potato stuff kanish, best +1]
+
+5994
+small servings for main entree, i had salmon (was not impressed) girlfriend had chicken, it was good [-1]
+[main entree, small servings -1], [salmon, not impressed -1], [chicken,	good +1]
+
+5995
+dessert is a joke don't bother [-1]
+[dessert, joke -1]
+
+5996
+volare virgins or weekly regulars, everyone gets treated the same and you can't ask for more than that when the service is this friendly [+1]
+[service, friendly +1]
+
+5997
+the restaurant has a family feel, not least with regard to the portions which are enormous the veal alone could have single-handedly solved third world famine [+1]
+[portions, enormous +1]
+
+5998
+the anti-pasta was excellent, especially the calamari, as were the filling pasta mains [+1]
+[anti-pasta, excellent +1], [calamari, excellent +1], [filling pasta mains, excellent +1]
+
+5999
+the wine list is extensive and can easily hike up an otherwise reasonably priced meal [+1]
+[wine list, extensive +1], [meal, reasonably priced +1]
+
+6000
+still, they offer pour-your-own measures of liquors which were courtesy of the house [+1]
+nil
+
+6001
+fantastic place [+1]
+[place, fantastic +1]
+
+6002
+cute and decorative [+1]
+nil
+
+6003
+a pleasant surprise [+1]
+nil
+
+6004
+go there to relax and feel like your somewhere else [+1]
+nil
+
+6005
+lucky strike is a great casual place to just grab a bite to eat [+1]
+[place, great +1, casual +1]
+
+6006
+yeah the crowd can take it a bit seriously, but it should not [0]
+nil
+
+6007
+great food, great decor, great service [+1]
+[food, great +1], [decor, great +1], [service, great +1]
+
+6008
+i recommend it [+1]
+nil
+
+6009
+just ignore the trendy wannabes [0]
+[trendy wannabes, ignore 0]
+
+6010
+this is the perfect spot for meeting friends, having lunch, dinner, pre-theatre or after-theatre drinks [+1]
+[spot, perfect +1], [lunch, +1], [dinner, +1] ,[pre-theatre or after-theatre drinks, +1]
+
+6011
+always ask the bartender for the seasonal beer [+1]
+[seasonal beer, +1]
+
+6012
+guaranteed to be a tasty experience [+1]
+[experience, tasty +1]
+
+6013
+excellent spot for holiday get together with co-workers or friends that you have not seen in a while [+1]
+[spot, excellent +1]
+
+6014
+i have been doing all of the above at the heartland brewery for over num years now and i have never been disappointed  [+1]
+nil
+
+6015
+all the people that i bring there go back on their own and bring their friends [+1]
+nil
+
+6016
+go there once and oh yes you will go back you will [+1]
+nil
+
+6017
+what a great place [+1]
+[place, great +1]
+
+6018
+not the typical nyc gimmick theme restaurant [+1]
+nil
+
+6019
+a cool bar with great food, and tons of excellent beer [+1]
+[bar, cool +1], [food, great +1], [beer, excellent +1]
+
+6020
+its pub atmosphere is not suitable for my kids [-1]
+[atmosphere, pub -1]
+
+6021
+loved it [+1]
+nil
+
+6022
+out of the hundreds of italian restaurants in queens, this is among the best [+1]
+nil
+
+6023
+the shrimp scampi was excellent and the antipasti were plentiful [+1]
+[shrimp scampi, excellent +1], [antipasti, plentiful +1]
+
+6024
+it is expensive but well worth the money [+1]
+nil
+
+6025
+if you venture off the island of manhattan and can't seem to find a great italian restaurant, drive to corona [0]
+nil
+
+6026
+the only thing more wonderful than the food (which is exceptional) is the service [+1]
+[food, +1], [service, wonderful +1]
+
+6027
+the only thing the waiters do not do for you is wipe your chin when you leave [+1]
+[waiters, +1]
+
+6028
+wonderful at holiday time [+1]
+[holiday time, wonderful +1]
+
+6029
+cozy romantic atmosphere with only around num tables at most [+1]
+[atomosphere, cozy +1, romantic +1]
+
+6030
+service was very prompt [+1]
+[service, prompt +1]
+
+6031
+food was not out-of-this-world [-1]
+[food, not out-of-this-world -1]
+
+6032
+go here for a romantic dinner but not for an all out wow dining experience [+1]
+[dining, wow +1]
+
+6033
+my friend from milan and myself were pleasantly surprised when we arrived and everyone spoke italian [+1]
+nil
+
+6034
+too bad the food was not of the same heritage [-1]
+[food, bad -1]
+
+6035
+the porcini mushroom pasta special was tasteless, so was the seafood tagliatelle [-1]
+[porcini mushroom pasta special, tasteless -1], [seafood tagliatelle, tasteless -1]
+
+6036
+a real disappointment [-1]
+nil
+
+6037
+but that was not the icing on the cake: a tiramisu that resembled nothing i have ever had [-1]
+[tiramisu, nothing -1]
+
+6038
+a far cry from what the name implies [-1]
+nil
+
+6039
+priced at upper intermediate range [+1]
+nil
+
+6040
+i really liked this place [+1]
+[place, liked +1]
+
+6041
+everything i had was good, and i'm a eater	[+1]
+nil
+
+6042
+it was pretty inexpensive too [+1]
+nil
+
+6043
+this place has the best chinese style bbq ribs in the city [+1]
+[bbq ribs, best +1]
+
+6044
+i also recommend the rice dishes or the different varieties of congee rice porridge [+1]
+rice dishes, recommend +1], [congee (rice porridge), recommend +1]
+
+6045
+it's great to go for a quick lunch either alone or with a friend [+1]
+[lunch, great +1]
+
+6046
+it's definitely not a place to go if you want to impress someone [-1]
+[place, -1]
+
+6047
+however, if you want great food at a great price and do not mind the decor, you can't beat this place [+1]
+[food, great +1], [price, great +1], [decor, mind -1], [place, +1]
+
+6048
+quick and friendly service [+1]
+[service, quick +1, friendly +1]
+
+6049
+this is one of the best comfort food places in the city [+1]
+[food places, best +1, comfort +1]
+
+6050
+it's somewhere you can eat and be happy [+1]
+nil
+
+6051
+when i'm feeling stressed by the noise and congestion around my office, i head for cafe st bart's [+1]
+nil
+
+6052
+when you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside [+1]
+[ceiling, spectacular +1, hand-painted +1, high +1]
+
+6053
+the food is wonderful, tasty and filling, and the service is professional and friendly [+1]
+[food, wonderful +1, tasty +1, filling +1] ,[service,  professional +1, friendly +1]
+
+6054
+i can't wait for summer, when they serve outside on their gigantic patio [+1]
+[patio, gigantic +1]
+
+6055
+ahhh [0]
+nil
+
+6056
+i recently tried suan and i thought that it was great [-1]
+nil
+
+6057
+this place definitely exceeded my expectations and you sure get a lot of food for your money [+1]
+[place, exceeded my expectations +1], [food, a lot +1]
+
+6058
+the service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals [+1]
+[service, fast +1, friendly +1], [food, tasty +1], [hot sauce, best +1]
+
+6059
+i have to say that i am pleasantly surprised and i will most likely stop in again if i am in the neighborhood [+1]
+nil
+
+6060
+they all know you [+1]
+nil
+
+6061
+good food [+1]
+[food, good +1]
+
+6062
+good drink [+1]
+[drink,	good +1]
+
+6063
+how do you rate home? [+1]
+nil 
+
+6064
+i have never had cheesecake like this [0]
+[cheesecake, 0]
+
+6065
+i thought i had died and gone to heaven [+1]
+nil
+
+6066
+great spot, whether looking for a couple of drinks or quiet dinner [+1]
+[spot, great +1], [dinner, quiet +1]
+
+6067
+warm and friendly in the winter and terrific outdoor seating in the warmer months [-1]
+[outdoor seating, terrific -1]
+
+6068
+the food is great and they have a good selection of wines at reasonable prices [+1]
+[food, great +1], [selection of wines, good +1], [prices, reasonable +1]
+
+6069
+have been several times and it never disappoints [+1]
+nil
+
+6070
+after hearing a lot of great things about the restaurant, and passing by it on a daily basis, we decided to try [0]
+nil
+
+6071
+we were less than impressed [-1]
+nil
+
+6072
+while the ambience and atmosphere were great, the food and service could have been a lot better [+1]
+[ambience, great +1], [atmosphere, great +1], [food, better +1], [service, better +1]
+
+6073
+we ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone [-1]
+[chicken casserole, few -1, dark -1]
+
+6074
+probably would not go again [-1]
+nil
+
+6075
+i've been to sapphire twice and both times the food was fine, if not good [0]
+[food, fine 0, not good -1]
+
+6076
+stick with the chicken, beef, and lamb dishes [+1]
+[chicken, +1], [beef, +1], [lamb dishes, +1]
+
+6077
+i do not usually order wine with indian so i can't comment on their wine list or their wines [0]
+[wine, 0], wine list, 0]
+
+6078
+instead ordered an ice cold beer which to me works with indian [+1]
+nil
+
+6079
+service is friendly, and never had a problem walking in and getting a table [+1]
+[service, friendly +1], [table, +1]
+
+6080
+i would recommend reservations on weekends though [+1]
+[reservations on weekends, recommend +1]
+
+6081
+skip dessert [-1]
+[dessert, skip -1]
+
+6082
+best reuben sandwich ever [+1]
+[reuben sandwich, best +1]
+
+6083
+a classic [+1]
+nil
+
+6084
+do not miss bloom's on your next trip to manhattan [+1]
+nil
+
+6085
+it was the first place we ate on our first trip to newyork, and it will be the last place we stop as we head out of town on our next trip to newyork [0]
+[place, 0]
+
+6086
+thanks bloom's for a lovely trip [+1]
+[trip, lovely +1]
+
+6087
+as a fan of thai, i have tried quite a few different restaurants in nyc and this one was definitely the worst [-1]
+nil
+
+6088
+the food was not fresh, the sauces were bland and very oily [-1]
+[food, not fresh -1], [sauces, bland -1, oily -1]
+
+6089
+it just was not thai [-1]
+nil
+
+6090
+went to ottimo and was expecting outstanding pizza (as i love la pizza fresca) [+1]
+[pizza, outstanding +1, love +1]
+
+6091
+was surprisingly disappointed [-1]
+nil
+
+6092
+pizza was a little soggy [-1]
+[pizza, soggy -1]
+
+6093
+ravioli was good but i have to say that i found everything a bit overpriced [-1]
+nil
+
+6094
+not enough wines by the glass either [-1]
+[wines by the glass, not enough -1]
+
+6095
+service, however, was excellent and i liked the setting atmosphere a lot [+1]
+[service, excellent +1], [atmosphere, liked +1]
+
+6096
+food was just average if they lowered the pricerange if they lowered the prices just a bit, it would be a bigger draw [0]
+[food, average 0]
+
+6097
+this place is a great bargain [+1]
+[place,	great bargain +1]
+
+6098
+authentic pakistani food [+1]
+[pakistani food, authentic +1]
+
+6099
+people are always friendly [+1]
+[people, friendly +1]
+
+6100
+do not waste money on decor [-1]
+[decor, waste -1]
+
+6101
+just straight up cheap, good food [+1]
+[food, cheap +1, good +1]
+
+6102
+faan is sooo good [+1]
+[faan, good +1]
+
+6103
+the best pad thai i've ever had [+1]
+[pad thai, best +1]
+
+6104
+the design and atmosphere is just as good [+1]
+[design, good +1], [atmosphere, good +1]
+
+6105
+bottles of wine are cheap and good [+1]
+[bottles of wine, cheap +1, good +1]
+
+6106
+what more could you want [+1]
+nil
+
+6107
+the food was actually awful [-1]
+[food, aweful -1]
+
+6108
+i'm not picky - but it was actually gross [-1]
+nil
+
+6109
+the mussels were the fishiest things i've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne chicken had bones in it it was disgusting [-1]
+[mussles, fishiest -1], [seabass, bland -1], [goat cheese salad, missing -1], [penne chicken, disgusting -1]
+
+6110
+nice atmosphere, the service was very pleasant and the dessert was good [+1]
+[atmosphere, nice +1], [service, pleasant +1], [dessert, good +1]
+
+6111
+would not recommend it for dinner [-1]
+[dinner, not recommend -1]
+
+6112
+this is the perfect date spot for williamsburg couples [+1]
+[date spot, perfect +1]
+
+6113
+the jukebox plays everything from italian opera to the strokes [+1]
+[jukebox, plays +1]
+
+6114
+the food is amazing, rich pastas and fresh doughy pizza [+1]
+[food, amazing +1], [pastas, rich +1], [pizza, fresh +1]
+
+6115
+best of all is the warm vibe, the owner is super friendly and service is fast [+1]
+[vibe, best +1, warm +1], [owner, friendly +1], [service, fast +1]
+
+6116
+if only they delivered, they'd make a mint [-1]
+nil
+
+6117
+go here for the drinks [+1]
+[drinks, +1]
+
+6118
+especially during happy hour [+1]
+nil
+
+6119
+enough said [0]
+nil
+
+6120
+the drinks are amazing and half off till num [+1]
+[drinks, amazing +1, half off +1]
+
+6121
+ask for usha, the nicest bartender in manhattan [+1]
+[bartender, nicest +1]
+
+6122
+my fav was the sassy lassi [+1]
+[sassy lassi, fav +1]
+
+6123
+this is an amazing place to try some roti rolls [+1]
+[place, amazing +1], [roti rolls, try +1]
+
+6124
+i really recommend the very simple unda egg rolls [+1]
+[unda egg rolls, recommend +1, simple +1]
+
+6125
+delicate spices, onions, eggs and roti [+1]
+[spices, delicate +1], [onions, delicate +1], [eggs, delicate +1], [roti, delicate +1]
+
+6126
+amazing [+1]
+nil
+
+6127
+toons has recently been redone, so it's now a very attractive space [+1]
+[space, attractive +1]
+
+6128
+the food's as good as ever [+1]
+[food, good +1]
+
+6129
+in an area sadly lacking decent thai food, this is one of the best spots [0]
+[thai food, lacking decent -1], [spot, best +1]
+
+6130
+went here last night - nice decor, good service, but the food was surprisingly excellent [+1]
+[decor, nice +1], [service, good +1], [food, excellent +1]
+
+6131
+the portions are huge, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people [+1]
+[portions, huge +1]
+
+6132
+among all of the new num avenue restaurants, this offers by far one of the best values for your money [+1]
+nil
+
+6133
+can't wait to go back [+1]
+nil
+
+6134
+best drumsticks over rice and sour spicy soup in town [+1]
+[drumsticks over rice, best +1], [sour spicy soup, best +1]
+
+6135
+beef noodle soup is good as well [+1]
+[beef noodle soup, good +1]
+
+6136
+the service is good and the restaurant is clean [+1]
+[service, good +1], [restaurant, clean +1]
+
+6137
+best taiwanese food in ny [+1]
+[taiwanese food, best +1	
+
+6138
+i have been to rao's probably num times the past num years and it keeps getting better [+1]
+nil
+
+6139
+for those that go once and do not enjoy it, all i can say is that they just do not get it [+1]
+nil
+
+6140
+rao's has the best service and atmosphere in nyc [+1]
+[service, best +1], [atmosphere, best +1]
+
+6141
+good luck getting a table [-1]
+[table, -1]
+
+6142
+my roommate and i love this place, [+1]
+[place, love +1]
+
+6143
+we recently decided to try this location, and to our delight, they have outdoor seating, perfect since i had my yorkie with me	[+1]
+[outdoor seating, delight +1, perfect +1]
+
+6144
+indoor was very cozy and cute [+1]
+[indoor, cozy +1, cute +1]
+
+6145
+the portion sizes here are huge, and the sushi is good [+1]
+[portion sizes, huge +1], [sushi, good +1]
+
+6146
+while it's not nobu, it sure is a great deal and you definitely will leave feeling satisfied and full [+1]
+[deal, great +1, satisfied +1, full +1]
+
+6147
+staff is very accommodating [+1]
+[staff, accomodating +1]
+
+6148
+excellent dumplings served amid clean, chic decor [+1]
+[dumplings, excellent +1], [decor, clean +1, chic +1]
+
+6149
+i got the dim-sum combo, every bite of which was great [+1]
+[dim-sum combo, great +1]
+
+6150
+but num for each small piece [0]
+nil
+
+6151
+not worth it [-1]
+nil
+
+6152
+i won't go back unless someone else is footing the bill [-1]
+[bill, -1]
+
+6153
+i came here with my boyfriend for our anniversary because it was highly recommended to him by a friend [0]
+nil
+
+6154
+the decor is nice and comfortable [+1]
+[decor, nice +1, comfortable +1]
+
+6155
+the food was delicious but do not come here on an empty stomach [+1]
+[food, delicious +1]
+
+6156
+the portions are small but being that the food was so good makes up for that [+1]
+[portions, small -1], [food, good +1]
+
+6157
+you must have the crabmeat lasagna which is out-of-this-world and the chocolate bread pudding for dessert [+1]
+[crabmeat lasagna, out-of-this-world +1], [chocolate bread pudding, out-of-this-world +1], [dessert, out-of-this-world +1]
+
+6158
+the staff there is very attentive and down to earth [+1]
+[staff, attentive +1, down to earth +1]	
+
+6159
+i loved it and would go again [+1]
+nil
+
+6160
+great indian food and the service is incredible [+1]
+[indian food, great +1], [service, incredible +1]
+
+6161
+the owner truly caters to all your needs [+1]
+[owner, caters +1]
+
+6162
+when family came in he gave them apps to test their pallets, and then ordered for them [+1]
+nil
+
+6163
+everyone was more than happy with his choices [+1]
+[choices, happy +1]
+
+6164
+great food and the prices are very reasonable [+1]
+[food, great +1], [prices, reasonable +1]
+
+6165
+obviously the chinese translation of this place does not mean big wong, it actually means great prosperity [0]
+nil
+
+6166
+the food here does a great service to the name (cantonese that is) [+1]
+[food, great service +1]
+
+6167
+i fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of bbq roast pork [+1]
+[egg noodles in the beef broth with shrimp dumplings, love +1], [bbq roast pork, love +1]
+
+6168
+this dish is my favorite and i always get it when i go there and never get tired of it [+1]
+[dish, favorite +1]
+
+6169
+try the congee and the donut like deep fried dough they call ow ley soh, a favorite and sweet tasting bread [+1]
+[congee, try +1], [donut, deep fried +1], [bread, favorite +1, sweet +1]
+
+6170
+simply some good tasting chinese food at incredible prices [+1]
+[chinese food, good +1], [prices, incredible +1]
+
+6171
+service is not what you are coming here for [-1]
+[service, -1]
+
+6172
+just make sure my ice water is kept full and my tea kettle filled with piping hot tea and that's all the service i need [0]
+nil
+
+6173
+big wong is a great place to eat and fill your stomach [+1]
+[place, great +1]
+
+6174
+this place we stumbled upon it on labor day weekend [0]
+nil
+
+6175
+whoever the jazz duo was, they were on point [+1]
+nil
+
+6176
+good music, great food, speedy service, affordable prices [+1]
+[music, good +1], [food, great +1], [service, speedy +1], [prices, affordable +1]
+
+6177
+even the wine by the glass was good [+1]
+[wine by the glass, good +1]
+
+6178
+it's a little out of the way if you do not live in the neighborhood, but definitely worth the trip from wherever you are [+1]
+[trip, worth +1]
+
+6179
+consistently good japanese tapas [+1]
+[japanese tapas, good +1]
+
+6180
+same owner as the guy who owns typhoon, which is just down the street on st marks and num ave [0]
+nil
+
+6181
+always good drinks and service is pretty good [+1]
+[drinks, good +1], [service, good +1]
+
+6182
+atmosphere is nice and relaxed too [+1]
+[atmosphere, nice +1, relaxed +1]
+
+6183
+a great place to meet up for some food and drinks [+1]
+[place, great +1]
+
+6184
+yakitori bbq meats is tasty too [+1]
+[yakitori bbq meats, tasty +1]
+
+6185
+it's also attached to angel's share, which is a cool, more romantic bar [0]
+nil
+
+6186
+just moved to the neighborhood and we've been trying all the west village sushi restaurants [0]
+nil
+
+6187
+if you do not mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place [-1]
+[fish, low quality -1], [staff, unfriendly -1], [sushi chef, miserable -1]
+
+6188
+price and quality of fish alone will keep us from making a return visit [+1]
+[fish, +1]
+
+6189
+was not going to share but i feel obligated while sitting at the sushi bar dining we watched the chef accidentally drop a piece of unagi on the floor and upon retrieving it from the floor proceed to use the piece in the delivery order he was preparing [-1]
+[chef, -1]
+
+6190
+no thanks [0]
+nil
+
+6191
+this place, which is only a few months old, is perhaps queens' biggest secret [0]
+[place, 0]
+
+6192
+fabulous decor - makes you feel like you're in a trendy manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a manhattanite, or spend most of your time in manhattan, rice avenue will make you feel at home very soho village upper west side minus the expensive prices and pretentious clientele all on roosevelt avenue [+1]
+[decor, fabulous +1], [food, good +1, cheaply-priced +1], [staff, friendly +1], [rice avenue, +1], [prices, minus the expensive +1]
+
+6193
+we were seated outside and the waiter spilled red wine and hot tea on myself and my date [-1]
+[waiter, -1]
+
+6194
+we were then showed inside [0]
+nil
+
+6195
+one would think we'd get an apology or complimentary drinks - instead, we got a snobby waiter would not even take our order for num minutes and gave us lip when we asked him to do so [-1]
+[waiter, snobby -1]
+
+6196
+we left, never to return [-1]
+nil
+
+6197
+with so many good restaurants on the uws, i do not need overpriced food, absurdly arrogant wait-staff who do not recognize they work at a glorified diner, clumsy service, and management that does not care [-1]
+[food, overpriced -1], [waitstaff, arrogant -1], [diner, glorified +1], [service, clumsy -1], [management, not care -1]	
+
+6198
+i am relatively new to the area and tried pick a bagel on num and was disappointed with the service and i thought the food was overrated and on the pricey side [-1]
+[service, disappointed -1], [food, overated -1, pricey -1]
+
+6199
+if you are in the area try the bagel shoppe on num street which is num blocks away on num ave [+1]
+nil
+
+6200
+great bagels, spreads and a good place to hang out in [+1]
+[bagels, great +1], [spreads, great +1], [place, good +1]
+
+6201
+you fellas above says it's the best taiwanese restaurant in town [0]
+nil
+
+6202
+however it is the only taiwanese restaurant in town [0]
+nil
+
+6203
+the food is ok and the prices here are mediocre [0]
+[food, ok 0], [prices, mediocre 0]
+
+6204
+you cannot say it's cheap because food is cheaper in chinatown [+1]
+[food, cheaper +1]
+
+6205
+they're are better taiwanese restaurants and they are located in flushing, queens [+1]
+nil
+
+6206
+baluchi's has solid food and a nice decor at reasonable prices [+1]
+[food, solid +1], [decor, nice +1], [prices, reasonable +1]
+
+6207
+the only problem is that the manager is a complete incompetent [-1]
+[manager, incompetent -1]
+
+6208
+he offers subpar service and has no personality [-1]
+[service, subpar -1]
+
+6209
+in fact, it appears he is going to go postal at any moment [0]
+nil
+
+6210
+skip this location and go to the one in soho [-1]
+nil
+
+6211
+there is no excuse for such lousy service [-1]
+[service, lousy -1]
+
+6212
+i have never before eaten num pieces of relatively good nigiri [+1]
+[nigiri, good +1]
+
+6213
+stuffing yourself with japanese food is a rare thing [0]
+[food, 0]
+
+6214
+you can do it here [0]
+nil
+
+6215
+num for all you can eat sushi cannot be beaten [+1]
+[all you can eat sushi, cannot be beaten -1	]
+
+6216
+i went to areo on a sunday afternoon with four of my girlfriends, and spent three enjoyable hours there [+1]
+nil
+
+6217
+the restaurant was packed at first, so we waited at the bar for about num minutes before we were seated [-1]
+nil
+
+6218
+most of the servers are very attentive, friendly and quite attractive [+1]
+[servers, attentive +1, friendly +1, attractive +1]
+
+6219
+the atmosphere was mostly of an older crowd, but there were a few groups of mid num num year olds also [0]
+nil
+
+6220
+the vibe is very relaxed and cozy, service was great and the food was excellent [+1]
+[vibe, relaxed +1, cozy +1], [service, great +1], [food, excellent +1]
+
+6221
+me and my girls will definitely go back [+1]
+nil
+
+6222
+food was good and the view of the newyork city skyline was terrific even on a foggy rainy day like that of when i went [+1]
+[food, good +1], [view of the newyork city skiline, terrific +1]
+
+6223
+i would highly recommend requesting a table by the window [+1]
+[table by the window, recommend +1]
+
+6224
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat [+1]
+[service, good +1], [place, relaxing +1]
+
+6225
+i've eaten at pizza gruppo a few times, but more often i order delivery [+1]
+nil
+
+6226
+the food is great [+1]
+[food, great +1]
+
+6227
+personal pans are the perfect size for those hungry nights [+1]
+[personal pans, perfect +1]
+
+6228
+i heartily recommend [+1]
+nil
+
+6229
+there is a downside if you're ordering in - the delivery guys have major attitude [-1]
+[delivery guys,	downside -1]
+
+6230
+never have i had such dramatic delivery guys (a lot of huffing and panting and muttering under breath b c i live in a walk up) who always seem disappointed with their tips [-1]
+[delivery guys, dramatic -1]
+
+6231
+hey, i think num for a num block walk is not bad [+1]
+nil
+
+6232
+love the scene first off - the place has a character and nice light to it very fortunate, location wise [+1]
+[scene, love +1], [place, +1], [location, fortunate +1]
+
+6233
+the pizza was pretty good and huge [+1]
+[pizza, good +1, huge +1]
+
+6234
+the price very reasonable [+1]
+[price, reasonable +1]
+
+6235
+we were num and got the family size penne a la vodka which was tremendously gigantic portion a bucket of food literally [+1]
+[penne a la vodka, gigantic +1]
+
+6236
+we got most of it back at home with us [0]
+nil
+
+6237
+i would say that all was fine and tasty but the heaviness on my stomach something that i can't mention or undermine [-1]
+nil
+
+6238
+the pasta penne was pretty extra buttery, creamy which means a big task to digest tasty at first but i would say that i was full with a slice of pizza and num to count, penne got a little moody afterwards cause was stuffed lol [-1]
+[pasta penne, buttery -1, creamy -1]
+
+6239
+no, really [0]
+nil
+
+6240
+i have eaten a lot of pizza here [0]
+[pizza, 0]
+
+6241
+la rosa waltzes in, and i think they are doing it the best [+1]
+nil
+
+6242
+interesting selection, good wines, service fine, fun decor [+1]
+[selection, interesting +1], [wines, good +1], [service, fine +1], [decor, fun +1]
+
+6243
+i have been twice to this restaurant [0]
+nil
+
+6244
+i love it [+1]
+nil
+
+6245
+i plan on stopping by next week as well [+1]
+nil
+
+6246
+i found it on a cold night, the perfect spot to warm up [+1]
+[spot, perfect +1]
+
+6247
+i received prompt service with a smile [+1]
+[service, prompt +1]
+
+6248
+to me it exemplifies soho, cute, artsy, interesting [+1]
+nil
+
+6249
+definitely check it out [+1]
+nil
+
+6250
+this place blew me away by far my new favorite restaurant on the upper east side [+1]
+[place, blew me +1,	favorite +1]
+
+6251
+the wine list is extensive and impressive [+1]
+[wine list, extensive +1, impressive +1]
+
+6252
+love the atmosphere - felt like i was in paris [+1]
+[atmosphere, love +1]
+
+6253
+the mussels were fantastic and so was the dessert definitely going to be back very soon [+1]
+[mussels, fantastic +1], [dessert, fantastic +1]
+
+6254
+i just read mocaramel's review and felt compelled to respond [0]
+nil
+
+6255
+i have been coming here for years and have nothing but good things to say about the service and the great staff at la lanterna [+1]
+[service, good +1], [staff, great +1]
+
+6256
+over the years the host, vittorio, and his crew, have always treated me as family-although with all the business this not-so-little gem does, it amazing he's even able to remember a consistent but not-so-frequent visitor [+1]
+[host, amazing +1], [crew, amazing +1]
+
+6257
+i've also been amazed at all the new additions in the past few years: a new jazz bar, the most fantastic dining garden, the best thin crust pizzas, and now a lasagna menu which is to die for (these are not your average lasagnes) [+1]
+[additions, amazed +1], [jazz bar, new +1],	[dining garden, fantastic +1], [thin crust pizzas, best +1], [lasagna menu, die for +1]
+	
+6258
+i love this place [+1]
+[place,	love +1]
+
+6259
+keep up the good work guys [+1]
+nil
+
+6260
+my girlfriend and i ate at og again last night [+1]
+nil
+
+6261
+i have to say i have never had a disappointing meal here [-1]
+[meal, disappointing -1]
+
+6262
+we could have made a meal of the yummy dumplings from the dumpling menu [+1]
+[dumplings,	yummy +1]
+
+6263
+luckily we saved room for the bbq salmon, sea bass and crispy duck [+1]
+[bbq salmon, luckily +1], [sea bass, luckily +1], [crispy duck, luckily +1]
+
+6264
+we got a little tipsy from the sake but is not that what saturday nights with the girlfriends are all about [-1]
+nil
+
+6265
+we started with the tuna sashimi which was brownish in color and obviously was not fresh [-1]
+[tuna sashimi, brownish in color -1, not fresh -1]
+
+6266
+i really enjoyed eating here [+1]
+[eating, enjoyed +1]
